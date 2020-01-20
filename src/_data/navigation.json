@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "About",
+      "url": "/about/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "Archive",
+      "url": "/archive/",
+      "external": false
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
+      "url": "https://twitter.com/ichris",
       "external": true
     }
   ]
