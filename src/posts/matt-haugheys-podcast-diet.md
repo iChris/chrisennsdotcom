@@ -1,11 +1,7 @@
 ---
-title: 'Matt Haughey''s Podcast Diet'
+title: "Matt Haughey''s Podcast Diet"
 date: 2018-08-10
 draft: false
-tags: 
-    - Podcasting
-    - podcasts
-    - blog
 
 ---
 

@@ -1,11 +1,7 @@
 ---
-title: 'Podcasting Doesn''t Have a Discoverability Problem'
+title: "Podcasting Doesn''t Have a Discoverability Problem"
 date: 2019-04-24
 draft: false
-tags: 
-  - business
-  - podcasting
-  - blog
 
 ---
 

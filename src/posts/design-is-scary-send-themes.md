@@ -1,11 +1,7 @@
 ---
-title: 'Design is scary. Send themes.'
+title: "Design is scary. Send themes."
 date: 2019-03-06
 draft: false
-tags: 
-  - Blogging
-  - eleventy
-  - blog
 
 ---
 

@@ -1,10 +1,7 @@
 ---
-title: 'Apple''s Privacy Feature Costing Ad Companies Millions'
+title: "Apple''s Privacy Feature Costing Ad Companies Millions"
 date: 2018-01-10
 draft: false
-tags:
-    - Apple
-    - blog
 ---
 
 Privacy continues to suck on the web. Luckily browser makers have finally started to take the user's interests to heart. From The Guardian via [MacStories](https://www.macstories.net/linked/the-effects-of-safaris-intelligent-tracking-prevention/): [No tracking, no revenue: Apple's privacy feature costs ad companies millions](https://www.theguardian.com/technology/2018/jan/09/apple-tracking-block-costs-advertising-companies-millions-dollars-criteo-web-browser-safari):

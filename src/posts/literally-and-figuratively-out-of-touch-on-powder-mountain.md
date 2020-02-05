@@ -1,11 +1,7 @@
 ---
-title: 'Literally and Figuratively Out of Touch on Powder Mountain'
+title: "Literally and Figuratively Out of Touch on Powder Mountain"
 date: 2018-03-21
 draft: false
-tags: 
-    - culture
-    - Technology
-    - blog
 ---
 
 I have no doubt that the previous generations of rich businessmen were as out of touch as these guys, but at least they presumably had the good sense to keep their mouths shut about it. From The Guardian, "[Welcome to Powder Mountain – a utopian club for the millennial elite](https://www.theguardian.com/technology/2018/mar/16/powder-mountain-ski-resort-summit-elite-club-rich-millennials)":

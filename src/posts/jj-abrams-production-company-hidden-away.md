@@ -1,11 +1,7 @@
 ---
-title: 'JJ Abrams'' Production Company Hidden Away'
+title: "JJ Abrams'' Production Company Hidden Away"
 date: 2018-11-22
 draft: false
-tags:
-  - architecture
-  - design
-  - blog
 
 ---
 

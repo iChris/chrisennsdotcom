@@ -1,10 +1,7 @@
 ---
-title: 'Dealing with Social Media Stress'
+title: "Dealing with Social Media Stress"
 date: 2018-01-04
 draft: false
-tags:
-    - Social Media
-    - blog
 
 ---
 
