@@ -1,5 +1,8 @@
 ---
 title: "HomePod is Three Years Behind Amazon Echo"
+date: 2017-11-28
+draft: false
+
 ---
 <p>Mark Gurman, writing for Bloomberg, thinks Apple is 3 years behind Amazon because they're focused on the speaker and not the assistant. Filled with lots of information "according to people familiar with the situation",  <a href="https://www.bloomberg.com/news/articles/2017-11-21/why-apple-s-homepod-is-three-years-behind-amazon-s-echo">Why Apple’s HomePod Is Three Years Behind Amazon’s Echo</a> seems written to inspire anger from Apple zealots particularly considering the HomePod hasn't actually been released yet. Not to mention that nightmare inducing animation accompanying the article.</p>
 <p>As someone who is way outside the knowledge of what's going on inside Apple, a lot of the points have a ring of <a href="https://en.wikipedia.org/wiki/Truthiness">truthiness</a> to me.</p>
