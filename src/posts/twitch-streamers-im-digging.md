@@ -1,12 +1,7 @@
 ---
-title: 'Twitch Streamers I''m Digging'
+title: "Twitch Streamers I''m Digging"
 date: 2018-08-23
 draft: false
-tags: 
-    - gaming
-    - livestreaming
-    - Twitch
-    - blog
 
 ---
 

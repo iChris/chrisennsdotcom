@@ -1,10 +1,7 @@
 ---
-title: 'The State of the iOS Economy'
+title: "The State of the iOS Economy"
 date: 2018-01-15
 draft: false
-tags:
-    - Apple
-    - blog
 ---
 
 Horace Dediu [dives into numbers of the iOS economy in 2017](http://www.asymco.com/2018/01/08/the-ios-economy-updated/) based off [Apple's PR release announcing a record breaking holiday season](https://www.apple.com/newsroom/2018/01/app-store-kicks-off-2018-with-record-breaking-holiday-season/). While the numbers are crazy high and obviously good for Apple, I wonder where all the money people are spending on apps is coming from? And what isn't getting the money anymore now that it's being spent on apps? Horace Dediu:

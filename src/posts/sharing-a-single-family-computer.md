@@ -1,11 +1,7 @@
 ---
-title: 'Sharing a Single Family Computer'
+title: "Sharing a Single Family Computer"
 date: 2018-08-13
 draft: false
-tags: 
-    - Family
-    - Screen Time
-    - blog
 
 ---
 

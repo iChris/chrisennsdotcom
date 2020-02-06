@@ -1,10 +1,7 @@
 ---
-title: 'Cancelling My Podia Account'
+title: "Cancelling My Podia Account"
 date: 2018-04-25
 draft: false
-tags: 
-    - courses
-    - blog
 ---
 
 _Earlier today I sent this email to folks on my mailing list that had purchased or expressed interest in purchasing a course I published on Podia. I'm cross-posting it to my blog just in case someone misses the email._ I'm sorry to have to do this but I'm letting you know that I'm going to be shutting down my account on Podia at the end of April, 2018. When I cancel my Podia account the content on here will be disappearing.

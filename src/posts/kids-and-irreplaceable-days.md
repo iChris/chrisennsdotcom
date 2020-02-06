@@ -1,10 +1,7 @@
 ---
-title: 'Kids and Irreplaceable Days'
+title: "Kids and Irreplaceable Days"
 date: 2018-11-21
 draft: false
-tags: 
-    - life
-    - blog
 
 ---
 

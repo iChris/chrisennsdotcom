@@ -1,11 +1,7 @@
 ---
-title: 'The Rush and Jolt of Publishing on the Web'
+title: "The Rush and Jolt of Publishing on the Web"
 date: 2018-11-06
 draft: false
-tags: 
-    - Blogging
-    - internet
-    - blog
 
 ---
 

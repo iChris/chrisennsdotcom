@@ -1,11 +1,7 @@
 ---
-title: 'Timers, Reminders, and Alarms on Apple Devices'
+title: "Timers, Reminders, and Alarms on Apple Devices"
 date: 2018-02-27
 draft: false
-tags: 
-    - Apple
-    - ios
-    - blog
 ---
 
 [Dr Drang compiles all the various ways you can set timers or alarms on Apple Devices:](http://leancrew.com/all-this/2018/02/timers-reminders-alarms-oh-my/)

@@ -1,11 +1,7 @@
 ---
-title: 'Why Lauren Shippen Took Her Podcast to Luminary'
+title: "Why Lauren Shippen Took Her Podcast to Luminary"
 date: 2019-03-07
 draft: false
-tags:
-  - business
-  - podcasting
-  - blog
 
 ---
 
@@ -23,7 +19,6 @@ As I've said before, I'd do the same thing if a company came with enough money t
 
 Lauren has a Patreon campaign which doesn't show the dollar amount they're raising each month, but as of this writing they have 1,127 patrons. And their only tier is $5/month. You don't have to support at the required tier but just for the sake of this post, let's assume there are 1,000 patrons x $5 = $5,000USD/month support on Patreon.
 
-Regarding the Patreon campaign, Lauren said:
 
 > We’ve had a Patreon for several years that enabled us to survive and do bonus episodes that would have otherwise been impossible. But to pull back the curtain on that a bit: one month of our Patreon earnings equals the cost of _one_ bonus episode. Thankfully, we’ve been able to pay everyone - guest writers, guest actors, Julia & Mischa - pretty fairly, but we’ve made no additional profit off of the Patreon, ever. 
 
