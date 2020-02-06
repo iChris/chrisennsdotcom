@@ -4,7 +4,7 @@ date: 2019-03-06
 draft: false
 
 ---
-
+ 
 If CMS/static site generators like [Eleventy](https://www.11ty.io), [Statamic](https://statamic.com), [Gatsby](https://www.gatsbyjs.org), etc. want to grow outside of just the developers/designers who use them, they need robust theme options for those of us who can't design our way out of a gradient box.
 
 You could argue that maybe I need to learn more about design and HTML/CSS - which would be true. But I also know I want to put stuff (podcast episodes, blog posts spouting dumb theories about themes) out into the world and spend my time getting better at that, not learning how to design the container for it.
