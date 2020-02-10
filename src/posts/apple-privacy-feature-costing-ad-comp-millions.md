@@ -1,5 +1,5 @@
 ---
-title: "Apple''s Privacy Feature Costing Ad Companies Millions"
+title: "Apple's Privacy Feature Costing Ad Companies Millions"
 date: 2018-01-10
 draft: false
 ---
