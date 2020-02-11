@@ -1,4 +1,4 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "/{{ page.date.year }}/{{ page.date.month }}/{{ title | slug }}/"
+  "permalink": "{{ page | post_permalink }}"
 }
