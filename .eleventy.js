@@ -28,6 +28,19 @@ module.exports = function(config) {
   config.addTransform('htmlmin', htmlMinTransform);
   config.addTransform('parse', parseTransform);
 
+  // Permalink possible fix from https://github.com/11ty/eleventy/issues/923
+  //   "permalink": "{{ page | post_permalink }}"
+config.addFilter("post_permalink", page => {
+  const yyyy = page.date.getFullYear();
+  const mm = String(page.date.getMonth() + 1).padStart(2, "0");
+  const slug = page.fileSlug.replace(/^\d{4}-\d{2}-\d{2}\./, "");
+  return `${yyyy}/${mm}/${slug}/`;
+});
+
+config.addFilter('dateFilter', dateFilter);
+config.addFilter('markdownFilter', markdownFilter);
+config.addFilter('w3DateFilter', w3DateFilter);
+
   // Passthrough copy
   config.addPassthroughCopy('src/fonts');
   config.addPassthroughCopy('src/images');
