@@ -25,7 +25,7 @@ Ok. Skip the greatest hits and get music the way God (yes, Bono) intended it.
 
 ### [Achtung Baby](https://geo.itunes.apple.com/us/album/achtung-baby/1238505580?app=itunes&at=10l4Ki)
 
-This is where I show my own entry into U2 - 1991's Achtung Baby was that album that changed them from being a sentimental lovey-dovey rock band (which they still are), into something that felt cool and had an edge\[footnote\]Pun fully intended\[/footnote\] to it. From "Zoo Station" all the way to "Love is Blindness", there isn't a track on this album that I don't love and know every word and guitar hook to. If you can find [ZooTV Live From Sydney](http://amzn.to/2jIsCxI), the concert documentary of the tour that followed this album, you'll have the full U2 immersion experience I did back in the early 90's.
+This is where I show my own entry into U2 - 1991's Achtung Baby was that album that changed them from being a sentimental lovey-dovey rock band (which they still are), into something that felt cool and had an edge\[footnote\]Pun fully intended\[/footnote\] to it. From "Zoo Station" all the way to "Love is Blindness", there isn't a track on this album that I don't love and know every word and guitar hook to. If you can find [ZooTV Live From Sydney](https://amzn.to/2jIsCxI), the concert documentary of the tour that followed this album, you'll have the full U2 immersion experience I did back in the early 90's.
 
 ### [Songs of Innocence](https://geo.itunes.apple.com/us/album/songs-of-innocence/1238500049?app=itunes&at=10l4Ki)
 

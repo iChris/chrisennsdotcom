@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-I was checking out Jason Kottke's [shop](http://kottke.org/shop) page and love the accidental nature of it, which is where he got the name from:
+I was checking out Jason Kottke's [shop](https://kottke.org/shop) page and love the accidental nature of it, which is where he got the name from:
 
 > kottke.org was also never supposed to be a store. But as the years piled on, so did the links to all sorts of interesting books, movies, music, and other products that people could buy. I’ve collected many of those products into The Accidental Shop. The shop contains over 2000 items from 19+ years of posts.
 

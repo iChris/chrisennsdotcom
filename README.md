@@ -52,7 +52,7 @@ I recorded a quick start video of me deploying Hylia to Netlify and getting the 
 1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hylia`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
-4. Open your browser at `http://localhost:8080` and away you go!
+4. Open your browser at `https://localhost:8080` and away you go!
 
 ## Terminal commands
 
