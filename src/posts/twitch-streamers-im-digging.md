@@ -15,7 +15,7 @@ Ok... on to the Twitch channels I'm digging lately.
 
 ### RunJumpStomp
 
-📺 [Watch on Twitch](https://www.twitch.tv/runjumpstomp) This channel is a live recording of a Nintendo podcast, [Nintendo Switchcraft](http://www.runjumpstomp.com), as well as streaming of various Nintendo Switch games.
+📺 [Watch on Twitch](https://www.twitch.tv/runjumpstomp) This channel is a live recording of a Nintendo podcast, [Nintendo Switchcraft](https://www.runjumpstomp.com), as well as streaming of various Nintendo Switch games.
 
 ![](https://chrisenns.com/wp-content/uploads/2018/08/RunJumpStomp.jpg)
 

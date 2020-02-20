@@ -16,7 +16,7 @@ The last purchase of one of my courses was in February 2018 so hopefully by now 
 
 ### What About Podcasting 101 / WordPress 101?
 
-I'd still love to put together those courses someday but I know that it's not happening anytime soon. I'll definitely be publishing podcasting tutorials and quick tips on my [YouTube channel](https://www.youtube.com/user/LemonProductionsCa). If you’d like to keep up with new videos I publish, [you can sign up for my newsletter here 💌](http://eepurl.com/QsLb) and I'll drop you a note whenever I put out a new video.
+I'd still love to put together those courses someday but I know that it's not happening anytime soon. I'll definitely be publishing podcasting tutorials and quick tips on my [YouTube channel](https://www.youtube.com/user/LemonProductionsCa). If you’d like to keep up with new videos I publish, [you can sign up for my newsletter here 💌](https://eepurl.com/QsLb) and I'll drop you a note whenever I put out a new video.
 
 ### Listen Along
 
@@ -24,8 +24,8 @@ If you'd like to keep up with what I'm up to, you can listen to my podcast Daily
 
 *   [Web](https://goodstuff.fm/dailyish/)
 *   [Apple Podcasts](https://itunes.apple.com/ca/podcast/pdcst/id815675012)
-*   [Pocket Casts](http://pca.st/Vifv)
+*   [Pocket Casts](https://pca.st/Vifv)
 *   [Overcast](https://overcast.fm/itunes815675012/daily-ish)
-*   [RSS](http://feeds.goodstuff.fm/dailyish)
+*   [RSS](https://feeds.goodstuff.fm/dailyish)
 
 Thank you for your time today as well as for your support in the courses I wanted to create. I'd also like to thank Podia for their help in answering any questions I had in using their site. Chris Enns [Lemon Productions](https://www.lemonproductions.ca)

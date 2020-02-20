@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-I've been trying to come up with ideas for renovating my home office and stumbled on this portfolio piece from Howard Building Corporation for [The National Typewriter Company](http://www.howardbuilding.com/our-work/project/the-national-typewriter-company), which is a fake name for what the building actually houses: Bad Robot, JJ Abrams' production company that's helped make Lost, Star Trek, Star Wars, and many more popular TV and movie series. And of course, just like much of Abrams' work, there are secrets hidden in the building:
+I've been trying to come up with ideas for renovating my home office and stumbled on this portfolio piece from Howard Building Corporation for [The National Typewriter Company](https://www.howardbuilding.com/our-work/project/the-national-typewriter-company), which is a fake name for what the building actually houses: Bad Robot, JJ Abrams' production company that's helped make Lost, Star Trek, Star Wars, and many more popular TV and movie series. And of course, just like much of Abrams' work, there are secrets hidden in the building:
 
 > Abrams's own bathroom requires one to pull on a book entitled Louis Tannen's Catalog of Magic to reveal the toilet behind a secret opening in the wall.
 

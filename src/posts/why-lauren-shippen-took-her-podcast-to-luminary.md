@@ -5,11 +5,11 @@ draft: false
 
 ---
 
-Lauren Shippen, [creator and host of The Bright Sessions](http://thebrightsessions.tumblr.com), a popular scripted science fiction podcast, writes up why she decided to take her spin-off show, The AM Archives, to Luminary and it's paywall:
+Lauren Shippen, [creator and host of The Bright Sessions](https://thebrightsessions.tumblr.com), a popular scripted science fiction podcast, writes up why she decided to take her spin-off show, The AM Archives, to Luminary and it's paywall:
 
 > Yep, as of right now, The AM Archives will be behind a paywall for the foreseeable. That may not always be the case, but it will be a few years at least even if it does become widely available. 
 > 
-> [Lauren Shippen](http://thelaurenshippen.tumblr.com/post/183225866221/so-are-the-am-archives-going-to-permanently-behind)  
+> [Lauren Shippen](https://thelaurenshippen.tumblr.com/post/183225866221/so-are-the-am-archives-going-to-permanently-behind)  
 
 She goes on to explain that her current show, The Bright Sessions, will remain free forever:
 

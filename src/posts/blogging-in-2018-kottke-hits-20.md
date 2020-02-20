@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-[kottke.org](https://kottke.org) was one of the first blogs I remember reading regularly. In [this recent interview titled Last blog standing](http://www.niemanlab.org/2018/02/last-blog-standing-last-guy-dancing-how-jason-kottke-is-thinking-about-kottke-org-at-20/), Jason Kottke talks about how blogging compares with other options out there for writers in 2018 as his own blog turns 20: On “the kids” and social media:
+[kottke.org](https://kottke.org) was one of the first blogs I remember reading regularly. In [this recent interview titled Last blog standing](https://www.niemanlab.org/2018/02/last-blog-standing-last-guy-dancing-how-jason-kottke-is-thinking-about-kottke-org-at-20/), Jason Kottke talks about how blogging compares with other options out there for writers in 2018 as his own blog turns 20: On “the kids” and social media:
 
 > I got the feeling that if it’s not on Facebook and it’s not on Instagram, and it doesn’t involve their friends, they don’t really care that much.
 
