@@ -16,6 +16,11 @@
       "external": false
     },
     {
+      "text": "Live",
+      "url": "/live/",
+      "external": false
+    },
+    {
       "text": "Twitter",
       "url": "https://twitter.com/ichris",
       "external": true
