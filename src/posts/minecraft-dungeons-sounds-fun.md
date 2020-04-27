@@ -1,6 +1,9 @@
 ---
 layout: layouts/post.njk
 title: Minecraft Dungeons Sounds Fun
+metaDesc: I’m really looking forward to trying out Minecraft Dungeons when it
+  comes out next month.
+socialImage: images/minecraft-dungeons-preview.jpg
 date: 2020-04-17T04:56:07.280Z
 tags:
   - Minecraft
