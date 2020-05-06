@@ -1,0 +1,29 @@
+{
+    "items": [
+      {
+        "text": "About",
+        "url": "/about/",
+        "external": false
+      },
+      {
+        "text": "Archive",
+        "url": "/archive/",
+        "external": false
+      },
+      {
+        "text": "Uses",
+        "url": "/uses/",
+        "external": false
+      },
+      {
+        "text": "Live",
+        "url": "/live/",
+        "external": false
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/ichris",
+        "external": true
+      }
+    ]
+  }
