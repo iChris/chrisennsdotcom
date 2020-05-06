@@ -16,13 +16,11 @@ permalink: /recommends/
 <p><a href="https://chrisenns.com/dreamhost"><img class="aligncenter size-full wp-image-2138" title="Dreamhost" src="https://res.cloudinary.com/dtvjovih7/image/upload/v1585887286//234x60-a1.gif" alt="Dreamhost" width="234" height="60" border="0"></a></p>
 <h3>Specialized WordPress Hosting</h3>
 <p><a href="https://chrisenns.com/wpengine">WP Engine</a> is a web host dedicated to hosting specifically WordPress sites. It's all they do and they do it very well.</p>
-<p><a target="_blank" href="https://chrisenns.com/wpengine" rel="noopener noreferrer"><img class="aligncenter" src="http://www.shareasale.com/image/41388/Feature-Fast-468x60.jpeg" border="0"></a></p>
+<p><a target="_blank" href="https://chrisenns.com/wpengine" rel="noopener noreferrer"><img class="aligncenter" src="https://www.shareasale.com/image/41388/Feature-Fast-468x60.jpeg" border="0"></a></p>
 <p>With plans starting at $29/month it's not for everyone - <a href="https://chrisenns.com/dreamhost">Dreamhost</a> should certainly suffice for most personal/small business websites - but if you don't want to take care of WordPress upgrades, data backups, malware scanning and great WordPress knowledgable support, then be sure to check out <a href="https://chrisenns.com/wpengine">WP Engine</a>.</p>
 <h3>Squarespace Hosted Website</h3>
 <p><a href="https://chrisenns.com/squarespace">Squarespace</a> is a powerful website building tool where your website is hosted and managed by them, but you have complete control over the layout, structure, design and content of your website without ever having to step foot into CSS or HTML code.</p>
-<p><a href="https://chrisenns.com/squarespace"><br>
-    <img class="aligncenter" src="http://adn.impactradius.com/display-ad/1291-38418" alt=""><br>
-</a></p>
+
 <p>But if you do want to wade into the nerd waters a bit, you can have complete control over your <a href="https://chrisenns.com/squarespace">Squarespace</a> site, starting from one of their gorgeous templates and doing all sorts of CSS inserts, layout changes and many other things that are otherwise unheard of from a website building tool like this.</p>
 <p>If WordPress isn't careful, <a href="https://chrisenns.com/squarespace">Squarespace</a> could certainly eat their lunch as more and more people are less worried about plugins and messing with code and more concerned with the content of their site.</p>
 <h3>Microblogging</h3>

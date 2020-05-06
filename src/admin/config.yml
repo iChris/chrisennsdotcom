@@ -3,7 +3,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow
 media_folder: "src/images"
-site_url: "https://trusting-jones-199ed4.netlify.com/"
+site_url: "https://chrisenns.com/"
 public_folder: "/images"
 collections:
   - name: "pages"
