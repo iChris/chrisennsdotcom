@@ -10,6 +10,7 @@
         </div>
       {% endif %}
       <div>
+        {% set ariaLabel = 'footer navigation' %}
         {% include "partials/components/nav.njk" %}
         <theme-toggle></theme-toggle>
       </div>
@@ -20,8 +21,7 @@
       </p>
     {% endif %}
   </div>
-  <!-- Fathom - simple website analytics - https://usefathom.com -->
-<script>
+  <script>
 (function(f, a, t, h, o, m){
 a[h]=a[h]||function(){
 (a[h].q=a[h].q||[]).push(arguments)
@@ -34,5 +34,4 @@ m.parentNode.insertBefore(o,m)
 fathom('set', 'siteId', 'ISQCSOZA');
 fathom('trackPageview');
 </script>
-<!-- / Fathom -->
 </footer>

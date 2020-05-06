@@ -10,7 +10,7 @@ Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
 
 ## Features
 
-Hylia version 0.5.1 features:
+Hylia version 0.7.0 features:
 
 ✍️ A pre-configured [Netlify CMS](https://www.netlifycms.org/) setup  
 🎨 Customisable design tokens to make it your own  
@@ -20,7 +20,8 @@ Hylia version 0.5.1 features:
 🎈 _Super_ lightweight front-end  
 🚰 Sass powered CSS system with utility class generator  
 ⚙️ Service worker that caches pages so people can read your articles offline  
-🚀 An RSS feed for your posts
+🚀 An RSS feed for your posts  
+💌 A basic contact form, ready for [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
 
 ## Roadmap
 
@@ -52,7 +53,7 @@ I recorded a quick start video of me deploying Hylia to Netlify and getting the 
 1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hylia`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
-4. Open your browser at `https://localhost:8080` and away you go!
+4. Open your browser at `http://localhost:8080` and away you go!
 
 ## Terminal commands
 

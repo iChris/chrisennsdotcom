@@ -2,9 +2,9 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
-site_url: "https://trusting-jones-199ed4.netlify.com/"
 media_folder: "src/images"
-public_folder: "images"
+site_url: "https://trusting-jones-199ed4.netlify.com/"
+public_folder: "/images"
 collections:
   - name: "pages"
     label: "Pages"
@@ -14,7 +14,6 @@ collections:
         delete: false
         file: "src/index.md"
         slug: "{{slug}}"
-        create: false
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/njk.njk"}
           - {label: "Title", name: "title", widget: "string"}
