@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "Faraway, So Close",
-  "shortDesc": "Up With the Static and the Radio Waves",
+  "shortDesc": "Faraway, So Close is the blog of Chris Enns.",
   "url": "https://chrisenns.com",
   "authorEmail": "contact@chrisenns.com",
   "authorHandle": "@iChris",
   "authorName": "Chris Enns",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$pay.stronghold.co/1a1d1b6226199ae451c805b09eff48bf7fe",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png"
 }
