@@ -69,6 +69,13 @@ config.addFilter('w3DateFilter', w3DateFilter);
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
 
+  // YouTube Embed added 2020-05-19
+  const embedYouTube = require("eleventy-plugin-youtube-embed");
+
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(embedYouTube);
+  };
+
   // 404 
   config.setBrowserSyncConfig({
     callbacks: {
