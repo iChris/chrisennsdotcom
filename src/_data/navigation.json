@@ -23,7 +23,8 @@
       {
         "text": "Twitter",
         "url": "https://twitter.com/ichris",
-        "external": true
+        "external": true,
+        "rel": "me"
       }
     ]
   }
