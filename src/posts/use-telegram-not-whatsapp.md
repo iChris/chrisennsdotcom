@@ -12,3 +12,4 @@ Sometime after the introduction of iMessage in late 2011, my wife's family was l
 
 In early 2014, [Facebook bought WhatsApp for an incredible, even by 2020 standards, $19 billion dollars](https://www.buzzfeednews.com/article/charliewarzel/why-facebook-bought-whatsapp) because WhatsApp was becoming more popular than it's own Facebook Messenger.
 
+- Telegram updates like [this one](https://telegram.org/blog/video-editor-gifs)
