@@ -1,11 +1,12 @@
 ---
 layout: layouts/post.njk
 title: Dropbox Introduces New Features Nobody Wants
+socialImage: /images/dropbox.jpg
 date: 2020-06-16T17:49:14.592Z
 tags:
   - Dropbox
 ---
-[Ron Miller at TechCruch on new features coming soon to Dropbox](https://techcrunch.com/2020/06/16/dropbox-introduces-slew-of-new-features-for-business-and-home-users/):
+[Ron Miller at TechCruch on new features coming to Dropbox](https://techcrunch.com/2020/06/16/dropbox-introduces-slew-of-new-features-for-business-and-home-users/):
 
 > Dropbox has always been about file storage, sharing and collaboration, but it wants to stretch beyond those roots and provide customers, especially those using the Dropbox Plus paid tier with a set of additional capabilities that typically would have involved using third-party products. This includes password management, an online vault and full computer backup.
 
