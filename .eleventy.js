@@ -65,17 +65,14 @@ config.addFilter('w3DateFilter', w3DateFilter);
       .slice(0, site.maxPostsPerPage);
   });
 
+  const embedYouTube = require("eleventy-plugin-youtube-embed");
+  
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(embedYouTube);
 
-  // YouTube Embed added 2020-05-19
-  const embedYouTube = require("eleventy-plugin-youtube-embed");
-
-  module.exports = function(eleventyConfig) {
-    eleventyConfig.addPlugin(embedYouTube);
-  };
-
+  
   // 404 
   config.setBrowserSyncConfig({
     callbacks: {
