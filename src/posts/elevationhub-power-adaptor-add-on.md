@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: ElevationHub Power Adaptor Add-on
+socialImage: /images/elevation-hub.jpg
 date: 2020-06-19T15:31:10.667Z
 tags:
   - Apple
