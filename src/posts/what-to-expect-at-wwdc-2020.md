@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: What to Expect at WWDC 2020
+socialImage: /images/img_4342.jpg
 date: 2020-06-19T21:35:30.625Z
 tags:
   - Apple
