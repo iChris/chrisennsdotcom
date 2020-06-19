@@ -9,4 +9,4 @@ tags:
 
 ![ElevationHub](/images/elevation-hub.jpg)
 
-Everytime I unpack my MacBook Pro's
+Everytime I pull out my MacBook Pro's power adaptor I shed a tear for the [Magsafe connector](https://en.wikipedia.org/wiki/MagSafe) and the way they used to [wrap around the pop-out cord winders](https://www.wired.com/2013/12/tnhyui-macbook-powercord-wrapping/) on the power supplies.
