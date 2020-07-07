@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How to Get a Great Looking Video Interview Over Zoom
+title: How to Get Great Looking Video for an Interview
 date: 2020-07-07T15:02:16.750Z
 tags:
   - Apple
