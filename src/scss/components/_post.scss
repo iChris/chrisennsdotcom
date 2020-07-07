@@ -19,7 +19,7 @@
     }
 
     a:not([class]) {
-      color: var(--color-dark);
+      color: var(--color-theme-highlight);
       position: relative;
 /*       display: inline-block; */
       background: none;
@@ -32,7 +32,7 @@
 
     a:not([class]):hover {
       text-decoration: none;
-      background: var(--color-theme-highlight);
+      background: #fff;
     }
 
     code {
