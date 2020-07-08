@@ -11,7 +11,12 @@ From The New York Times - [Churches Were Eager to Reopen. Now They Are a Major S
 > 
 > But now, about 50 congregants and staff members — including the pastor and his wife — have tested positive for the coronavirus. Mr. Arbaugh said all the cases had been mild so far.
 
-I really don't get the rush to gather again. I understand that it's good, fun, and nice to get together with your friends, family, and church members. Except for the huge risk right now with a deadly virus going around that spreads in ways that a typical church gathering seems to be best suited to help:
+I really don't get the rush to gather again. I understand that it's good, fun, and very beneficial to mental health in particular to get together with your friends, family, and church members. Except for the huge risk right now with a deadly virus going around that spreads in ways that a typical church gathering seems to be best suited to help:
 
 > “It’s an ideal setting for transmission,” said Carlos del Rio, an infectious disease expert at Emory University, referring to church gatherings. “You have a lot of people in a closed space. And they’re speaking loudly, they’re singing. All those things are exactly what you don’t want.”
 
+I miss gathering with my local church and seeing friends in person, learning, praying, singing, and worshiping together. But I have zero desire to meet while there's a chance that us meeting is endangering the lives of all of us - not just the elderly.
+
+[And we're still learning new ways that this disease may be attacking us](https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms).
+
+We're at war with this thing. And it doesn't care about religious affiliations or how long you've been in isolation.
