@@ -19,6 +19,6 @@ I miss gathering with my local church and seeing friends in person, learning, pr
 
 [And we're still learning new ways that this disease may be attacking us](https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms).
 
-And here in Saskatchewan, Canada, we're one group of travelling idiots arriving on a flight away from a huge outbreak, despite our best efforts at containing this thing so far. Germany reported 298 new cases yesterday. [The US, the country we're neighbours with, reported over 55,000 new cases](https://daringfireball.net/linked/2020/07/08/brain-disorders-covid19). We're a long ways from being out of the woods.
+Here in Saskatchewan, Canada, we're one group of travelling idiots arriving on a flight away from a huge outbreak, despite our best efforts at containing this thing so far. Germany reported 298 new cases yesterday. [The US, the country we're neighbours with, reported over 55,000 new cases](https://daringfireball.net/linked/2020/07/08/brain-disorders-covid19). We're a long ways from being out of the woods.
 
 We're at war with this thing. And it doesn't care about religious affiliations or how long you've been in isolation.
