@@ -20,3 +20,5 @@ I miss gathering with my local church and seeing friends in person, learning, pr
 [And we're still learning new ways that this disease may be attacking us](https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms).
 
 We're at war with this thing. And it doesn't care about religious affiliations or how long you've been in isolation.
+
+And here in Saskatchewan, Canada, we're one group of travelling idiots arriving on a flight away from a huge outbreak, despite our best efforts at containing this thing so far.
