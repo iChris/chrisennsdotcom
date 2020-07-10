@@ -4,6 +4,7 @@ title: Discord as the New Comment Space
 date: 2020-07-10T15:56:16.896Z
 tags:
   - Blogging
+  - Discord
 ---
 Tom Critchlow, who I discovered through searching for [Jekyll](https://jekyllrb.com/) templates at some point, is trying out using [Discord](https://discord.com) as the comment "space" for his blog:
 
