@@ -18,3 +18,5 @@ It looks like they'll be adding a Family Subscription paid plan option as well s
 > In the coming months, we plan to introduce two premium features that will be part of Microsoft 365 Family subscription: drive safety to help to build better habits behind the wheel with insights on driving behavior and location alerts to notify you when a family member arrives or departs a specific location.
 
 The latter is already built in to iOS's Screen Time and "Find My..." family sharing on iOS. The former is interesting but likely will require some sort of data tie in to a vehicle perhaps?
+
+Of all the family / screen time platforms, Microsoft's has definitely been the best overall in my experience. Apple assumes each child will have their own device running iOS 11 or newer, which isn't realistic with 3 or more kids in your family. Microsoft lets you set up an account on each device - Windows computer(s) or Xbox One - for each child so it's pretty simple to track time and usage across multiple devices.
