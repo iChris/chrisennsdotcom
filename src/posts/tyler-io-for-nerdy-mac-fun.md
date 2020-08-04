@@ -8,7 +8,7 @@ tags:
 ---
 This is why I can't just [up and quit Twitter](https://twitter.com/iChris/status/1290647830953156614).
 
-I follow [Aidan Fitzpatrick](https://twitter.com/afit) because he runs the company that created Camo, an app for your Mac and a complimentary app for iOS that allows you to use your iPhone or iPad as a webcam for chat apps like Zoom, etc. (I even made a [video about how well it works](https://www.youtube.com/watch?v=LtAfNo_5Y5w)). He recently shared a tweet from someone I don't follow and hadn't ever come across - [Tyler Hall](https://twitter.com/tylerhall) - who appears to be a [Mac and iOS app developer](https://clickontyler.com/).
+I follow [Aidan Fitzpatrick](https://twitter.com/afit) because he runs the company that created [Camo](https://reincubate.com/camo/), an app for your Mac and a complimentary app for iOS that allows you to use your iPhone or iPad as a webcam for chat apps like Zoom, etc. (I even made a [video about how well it works](https://www.youtube.com/watch?v=LtAfNo_5Y5w)). He recently shared a tweet from someone I don't follow and hadn't ever come across - [Tyler Hall](https://twitter.com/tylerhall) - who appears to be a [Mac and iOS app developer](https://clickontyler.com/).
 
 The tweet Aidan shared was [this one about the Mac utility app Tyler wrote that syncs the positions of your Desktop icons](https://twitter.com/tylerhall/status/1289822258014203905) - not just the contents of your desktop like iCloud Desktop Sync does, but the actual positions of the icons. [Pretty sweet bit of Mac nerdy fun](https://tyler.io/jigsaw-visually-sync-your-mac-desktop/).
 
