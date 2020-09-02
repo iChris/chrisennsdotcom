@@ -28,7 +28,7 @@ I'm sure I missed out on things friends had posted. Important life events as wel
 
 I didn't miss any of the feeling of inadequacy that viewing other photos or Stories brought on for me. I can really struggle with jealousy of what other's get to experience or have, and the polished, shiny view of life that a lot of people present on Instagram doesn't help. I think following less - and ultimately not using the app at all - would be a net positive for my mental health in the long run.
 
-But I love getting to play with the tech!
+But I love getting to play with the tech! So what's a nerd with self esteem and validation issues to do?!
 
 ### September's Test
 
