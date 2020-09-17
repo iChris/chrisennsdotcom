@@ -1,12 +1,15 @@
 ---
 layout: layouts/post.njk
 title: Jamstack vs WordPress
+socialImage: /images/alexandre-debieve-fo7jilwjotu-unsplash.jpg
 date: 2020-09-17T14:49:57.428Z
 tags:
   - jamstack
   - wordpress
 ---
-Clickbait headline aside, there's a bit of a technology fight brewing between the founder of WordPress, Matt Mullenweg, and the founder of Netlify, Matt Biilman.
+Clickbait headline aside, there's a good old fashioned technology fight brewing between the founder of [WordPress](https://wordpress.com/), Matt Mullenweg, and the founder of [Netlify](https://www.netlify.com/), Matt Biilman.
+
+Wait. Why didn't I title this "*To the Matt! Wrestling for the Future of the Web*"? Opportunity missed.
 
 In the interest of full disclosure:
 
