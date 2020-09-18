@@ -31,4 +31,6 @@ The web is open and free. Certain businesses might not allow you to post on thei
 
 It takes real guts and heart to spread hope. To have love. To not spread fear. To seek truth. To have patience. To care for your fellow humans.
 
+I’m fine with debating mask wearing. But to be clear on my opinion: I think wearing a mask is literally the least you could do to try and help limit the spread of this disease. And if nothing else you can help limit the spread of the flu, the cold, and other annoying diseases that we spread around this time of year.
+
 (*[Cross-posting this from Facebook](https://www.facebook.com/chrisenns/posts/870020451103?__cft__[0]=AZVnRaZpYgrFaLkht0n7QPKLeE7rVBFZSm2A3ziHrc35MfrOGHvhcp4LtdU_ADyVIa8Ht0QFA1M0NZ_6awABISElQQnYMGDrOkF30Wc2qArikEsGnHKAe59lHJ9qyJ_82og&__tn__=%2CO%2CP-R)*)
