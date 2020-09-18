@@ -7,7 +7,7 @@ tags:
   - covid-19
   - saskatchewan
 ---
-I'm completely fine with someone wanting to debate wearing a mask and it's effectiveness against COVID-19, a disease and thing we've been aware of for just over 6 months now - but taking a quick scan through the "No Mask Sask" group, it pretty quickly descends into a pile of hot garbage comparing mask wearing to being a Nazi, equating it to slavery, worth murdering someone over, and of the overall theme of the New World Order that's coming anytime now.
+I'm completely fine with someone wanting to debate wearing a mask and it's effectiveness against COVID-19, a disease and thing we've been aware of for just over 6 months now - but taking a quick scan through the "No Mask Sask" group on Facebook, it pretty quickly descends into a pile of hot garbage comparing mask wearing to being a Nazi, equating it to slavery, worth murdering someone over, and of the overall theme of the New World Order that's coming anytime now.
 
 ![Comparing wearing a mask to letting the Nazi's murder Jews](/images/no-mask-sask-2020-09-1700001.jpg)
 
@@ -19,10 +19,12 @@ I'm completely fine with someone wanting to debate wearing a mask and it's effec
 
 Gross.
 
-Complaints about being "blocked" and shadow banned by Facebook, and how it's against their free speech and constantly trying to be shut down. 
 
 
-It costs you $10/month + $25 for a domain name to host a website with WordPress at thousands of website hosting companies around the world. It's not an issue of "getting the word out before you get shut down". 🙃
+And in lots of complaints about being "blocked" and shadow banned by Facebook, and how Facebook is against their right to free speech and constantly trying to shut down them down.
+
+
+The web is open and free. Certain businesses might not allow you to post on their property, just like in the real world. It costs you $10/month + $25 for a domain name to host a website with WordPress at thousands of website hosting companies around the world. It's not an issue of "getting the word out before you get shut down". 🙃
 
 
 [Collective delusion](<https://www.buzzfeednews.com/article/drumoorhouse/qanon-mass-collective-delusion-buzzfeed-news-copy-desk>) websites like this have been around since the dawn of the internet. And before that they existed in magazines and pamphlets handed out on the street. It's whack-a-mole. If they get "shut down" by Facebook, they'll find a new home somewhere else on the internet to spew hate. There isn't a scarcity of places to spread fear and hatred on the internet.
