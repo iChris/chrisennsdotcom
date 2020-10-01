@@ -12,7 +12,7 @@ A crazy story of Apple simply [allowing power users to change icons](https://www
 
 All from a [single tweet](https://twitter.com/traf/status/1307707156788060160) that caught fire and went viral. It's a [very nice icon set](https://icons.tr.af/).
 
-The most important part of it all is how Traf acknowledges the key to "overnight success":
+The most interesting part of it all to me is how Traf acknowledges the key to "overnight success":
 
 > In the same way that creating icon sets 7 years ago prepared me for last week, this whole experiment has likely prepared me for what's to come years from now.
 
