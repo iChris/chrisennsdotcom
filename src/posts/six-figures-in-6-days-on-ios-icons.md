@@ -11,7 +11,7 @@ A crazy story of Apple simply allowing power users to change icons for apps on i
 
 All from a [single tweet](https://twitter.com/traf/status/1307707156788060160) that caught fire.
 
-If you just read the headline and first couple of paragraphs and leave, you'd miss the most important part of his "quick" success:
+The most important part of it all is how Traf acknowledges the key to "overnight success":
 
 > In the same way that creating icon sets 7 years ago prepared me for last week, this whole experiment has likely prepared me for what's to come years from now.
 
