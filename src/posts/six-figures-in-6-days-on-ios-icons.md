@@ -5,7 +5,7 @@ date: 2020-10-01T14:51:32.651Z
 tags:
   - apple
 ---
-A crazy story of Apple simply allowing power users to change icons for apps on iOS [made a designer over $100k in a week](https://tr.af/6):
+A crazy story of Apple simply [allowing power users to change icons](https://www.macrumors.com/how-to/change-app-icons/) for apps on iOS [made a designer / developer over $100k in a week](https://tr.af/6):
 
 > The next thing I knew, I was making $28 what felt like every 28 seconds. My phone turned into the ultimate dopamine dispenser (if it wasn't already).
 
