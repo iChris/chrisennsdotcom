@@ -23,4 +23,4 @@ If you’re curious how “normal” folks are using Clubhouse, my buddy Matt Mc
 
 ---
 
-If you've read this far and want to try out Clubhouse - and know me well enough to share your cell number with me - send me a [DM on Twitter](https://twitter.com/ichris)
+If you've read this far and want to try out Clubhouse - and know me well enough to share your cell number with me - [send me a DM on Twitter](https://twitter.com/messages/compose?recipient_id=58323) and if I still have an invite, I'll be happy to share one with you.
