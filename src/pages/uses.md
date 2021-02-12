@@ -9,6 +9,8 @@ Inspired by <a href="https://wesbos.com/uses/">Wes Bos' /Uses/ page</a>, I thoug
 
 Feel free to ask any questions in the comments at the bottom of the page or <a href="https://twitter.com/ichris">on Twitter</a>. Most stuff doesn't have affiliate links included but some does.
 
+*Last updated: 2021-02-12*
+
 ## Current Desk View
 
 ![My desk with a computer, monitor, keyboard, and trackpad.](/images/img_8111.jpg)
@@ -53,7 +55,8 @@ For my <a href="https://www.lemonproductions.ca">podcast editing / production bu
 
 ### Hardware &amp; Gear
 
-* My primary work machine is a 2019 16" MacBook Pro with a 2.3GHz i9, 16GB of RAM, and a 1TB SSD.
+* My computer is a 2019 16" MacBook Pro with a 2.3GHz i9, 16GB of RAM, and a 1TB SSD.
+* I just added a <a href="https://www.dell.com/en-ca/shop/accessories/apd/210-AVJV">Dell UltraSharp 27 4K U2720Q</a> monitor to my set up and am digging it so far.
 * I love the <a href="https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver">Apple Magic Trackpad 2</a> but I don't think I'd justify it if it hadn't come bundled with my iMac.
 * I recently switched to the <a href="https://www.logitech.com/en-ca/products/keyboards/mx-keys-mac-wireless-keyboard.920-009552.html">Logitech MX Keys for Mac</a> and like it a lot - other than my pinky keeps hitting the Option key instead of Control when I'm editing.
 * I'm currently on a yellow iPhone 11 w/128GB. I stick to a 2 year contract for my phone because I'm not rich and fancy.
