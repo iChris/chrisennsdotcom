@@ -14,7 +14,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
-const feedbinStars = require("eleventy-plugin-feedbin-stars");
+// const feedbinStars = require("eleventy-plugin-feedbin-stars");
 
 module.exports = function(config) {
   // Filters
@@ -23,10 +23,10 @@ module.exports = function(config) {
   config.addFilter('w3DateFilter', w3DateFilter);
 
   // Feedbin Stars plugin
-  config.addPlugin(feedbinStars, {
-    feed_id: "caffb453ffdb88f1370a2d424878787a",
-    cache_duration: "4h",
-    });
+ // config.addPlugin(feedbinStars, {
+ //   feed_id: "caffb453ffdb88f1370a2d424878787a",
+ //   cache_duration: "4h",
+ //   });
  
   // Layout aliases
   config.addLayoutAlias('home', 'layouts/home.njk');
