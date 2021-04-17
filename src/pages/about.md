@@ -6,9 +6,17 @@ permalink: /about/
 
 This website is written by Chris Enns (surprise!), a podcast editor & producer living in Saskatoon, Saskatchewan, Canada.
 
-I own my own consulting company, [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? Take a look at my portfolio.
+I run [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? [Take a look at my portfolio](https://www.lemonproductions.ca/portfolio).
 
-I’m also passionate about podcasting and am working on building a business around it at goodstuff.fm.
+### Client Sample
+
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/b88889d0"></iframe>
+
+I also run a podcast network with friends called [Goodstuff](https://goodstuff.network/).
+
+### Personal Podcast Sample
+
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest"></iframe>
 
 ## This Blog
 
@@ -18,7 +26,7 @@ I started this website in 2002 with [this very insightful post](https://chrisenn
 
 If you'd like to subscribe to my blog via your favorite RSS reader (RIP Google Reader), use this link: [https://chrisenns.com/feed.xml](https://chrisenns.com/feed.xml).
 
-I personally use [Feedly](https://feedly.com/) these days along with [NetNewsWire for macOS and iOS](https://ranchero.com/netnewswire/).
+I personally use [Feedbin](https://feedbin.com/) these days along with [NetNewsWire for macOS and iOS](https://ranchero.com/netnewswire/).
 
 ## About the Server & Software
 
