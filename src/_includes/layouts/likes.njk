@@ -1,0 +1,26 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    <article class="[ post ] [ h-entry ]">
+      
+      {% favorites %}
+      
+      <ol reversed class="postlist">
+{% for post in feedbin.favorites | reverse %}
+	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+		<a href="{{ post.url | url }}" class="postlist-link">
+			{% if post.title %}{{ post.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+			<p class="postlist-desc">{{ post.url | cleanURL }}</p>
+		</a>
+	</li>
+{% endfor %}
+</ol>
+    </article>
+  </main>
+{% endblock %}
+
+{{ content | safe }}

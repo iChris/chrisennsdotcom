@@ -66,12 +66,16 @@ config.addFilter('w3DateFilter', w3DateFilter);
   });
 
   const embedYouTube = require("eleventy-plugin-youtube-embed");
-  
+  const pluginFeedbin = require("eleventy-plugin-feedbin");
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginFeedbin);
+}
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
   config.addPlugin(embedYouTube);
 
+  
   
   // 404 
   config.setBrowserSyncConfig({
