@@ -5,12 +5,12 @@ const fs = require("fs");
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
 const markdownFilter = require('./src/filters/markdown-filter.js');
+const permalinkFilter = require('./src/filters/permalink-filter.js');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
 
 // Import transforms
 const htmlMinTransform = require('./src/transforms/html-min-transform.js');
 const parseTransform = require('./src/transforms/parse-transform.js');
-
 
 // Import data files
 const site = require('./src/_data/site.json');
@@ -19,6 +19,7 @@ module.exports = function(config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
+  config.addFilter('post_permalink', permalinkFilter);
   config.addFilter('w3DateFilter', w3DateFilter);
 
   // Layout aliases
@@ -27,19 +28,6 @@ module.exports = function(config) {
   // Transforms
   config.addTransform('htmlmin', htmlMinTransform);
   config.addTransform('parse', parseTransform);
-
-  // Permalink possible fix from https://github.com/11ty/eleventy/issues/923
-  //   "permalink": "{{ page | post_permalink }}"
-config.addFilter("post_permalink", page => {
-  const yyyy = page.date.getFullYear();
-  const mm = String(page.date.getMonth() + 1).padStart(2, "0");
-  const slug = page.fileSlug.replace(/^\d{4}-\d{2}-\d{2}\./, "");
-  return `${yyyy}/${mm}/${slug}/`;
-});
-
-config.addFilter('dateFilter', dateFilter);
-config.addFilter('markdownFilter', markdownFilter);
-config.addFilter('w3DateFilter', w3DateFilter);
 
   // Passthrough copy
   config.addPassthroughCopy('src/fonts');
