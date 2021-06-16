@@ -31,4 +31,14 @@ For example, I have a live stream link I use for Twitch. Rather than type out th
 
 ## What's Not Working
 
-Lately both of these apps are failing for no apparent reason other than possibly updates to the macOS that have broken the way they work. As far as I can tell, it's nothing I've done. But I'd be more than happy 
+Lately both of these apps are failing for no apparent reason other than possibly updates to the macOS that have broken the way they work. As far as I can tell, it's nothing I've done. Maybe it is me? I don't really care. I just want the apps to work the way they have been for the last 10 years I've been using them.
+
+![Backblaze error on Activity monitor](/images/backblaze-error.jpg "Backblaze error on Activity monitor")
+
+Backblaze has been doing this.
+
+
+
+![TextExpander Error screen which has encountered and error from which it cannot recover.](/images/textexpander-error.jpg "TextExpander Error screen")
+
+TextExpander has been doing this.
