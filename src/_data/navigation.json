@@ -21,6 +21,12 @@
         "external": false
       },
       {
+        "text": "Newsletter",
+        "url": "/newsletter/",
+        "external": false
+      },
+
+      {
         "text": "Twitter",
         "url": "https://twitter.com/ichris",
         "external": true,
