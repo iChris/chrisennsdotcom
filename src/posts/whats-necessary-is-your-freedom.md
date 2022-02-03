@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: What's Necessary Is Your Freedom?
+socialImage: /images/blog-freedom-post.jpg
 date: 2022-02-03T14:37:26.191Z
 tags:
   - saskatchewan
@@ -54,3 +55,7 @@ I live and work in a very privileged situation. My family is relatively healthy.
 To deliberately shape the conversation to be one about our "freedom", instead of around the health and wellness of our communities in Saskatchewan, is disingenuous, and politically evil.
 
 We haven't lost our freedoms. We've been inconvenienced for the sake of others around us. Freedom is what people went to war and died for. We're just being asked to fumble around in our wallet or phone for a vaccination pass and wear a piece of cloth on our face.
+
+---
+
+Got thoughts or questions? <a href="https://twitter.com/intent/tweet?screen_name=ichris">Send me a kind comment on Twitter</a>.
