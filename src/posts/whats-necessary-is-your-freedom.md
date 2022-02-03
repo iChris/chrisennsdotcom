@@ -50,7 +50,7 @@ This sentence is the most selfish thing the Saskatchewan Party has uttered this 
 
 The Saskatchewan Party has on one hand, constantly reminded us of "the good people of Saskatchewan" who chip in to help, while then on the other hand telling us to "do our own research" and "be most concerned about your freedoms."
 
-I live and work in a very privileged situation. My family is relatively healthy. I'm able to [work from home](https://www.lemonproductions.ca). We had COVID19 run through our house at the start of 2022 and it was like a bad cold for the worst of it. But I can still see past my own situation, and hear that for those less fortunate than me, those with health situations that are very different than mine, and perhaps most important in a pandemic, the doctors and scientests that are overwhelmingly asking for help and to **not** end restrictions at this time.
+I live and work in a very privileged situation. My family is relatively healthy. I'm able to [work from home](https://www.lemonproductions.ca). We had COVID19 run through our house at the start of 2022, and it was like a bad cold for the worst of it, aside from one of us losing their sense of taste and smell for a few weeks afterwards.  But I can still see past my own situation, and hear that for those less fortunate than me, those with health situations that are very different than mine, and perhaps most important in a pandemic, the doctors and scientests that are overwhelmingly asking for help and to **not** end restrictions at this time.
 
 To deliberately shape the conversation to be one about our "freedom", instead of around the health and wellness of our communities in Saskatchewan, is disingenuous, and politically evil.
 
