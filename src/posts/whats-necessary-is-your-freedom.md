@@ -7,9 +7,21 @@ tags:
   - covid19sk
   - covid19
 ---
-Last night the Saskatchewan Party published a video with our Premier Scott Moe talking about how it's time to have a conversation about ending government COVID restrictions - something they've been hinting at wanting to do for the past few weeks. They're being pushed into the conversation by [truckers and friends who are protesting in Ottawa](https://www.bbc.com/news/world-us-canada-60202050).
+Last night the Saskatchewan Party published a video with Premier Scott Moe talking about how it's time to talk about ending government COVID restrictions - something they've been hinting at wanting to do for the past few weeks. You could say they're being pushed into the conversation by [truckers and friends who are protesting in Ottawa](https://www.bbc.com/news/world-us-canada-60202050), but it's a narrative the Saskatchewan Party has been building for a while now.
 
-What I find disheartening in this is how our Premier has adopted the language of the protesters, who in turn adopted it from similar minded groups in the USA - the key word being "freedom".
+---
+
+[A quick aside on naming things](https://twitter.com/ichrisalt/status/1489254180548005891?s=21):
+
+I think naming your political party after your region (i.e. Saskatchewan Party) is lazy, pandering, and shouldn't be allowed. 
+
+Regardless of policy or left / right / etc. leaning, it shows a laziness and lack of creativity, which to me are signs that you’re also going to be a political party that is lazy, lacks creativity, and panders to the lowest common denominator just to maintain control.
+
+Ok, back to the main thread!
+
+---
+
+What I find disheartening in this is how our Premier and The Saskatchewan Party have adopted the language of the protesters, who in turn adopted it from similar minded groups in the USA - the key word being "freedom".
 
 The truck protesters are on a "freedom convey" to eliminate COVID19 related mandates. And the Saskatchewan Party is using that same focus to get rid of what little restrictions we have left in Saskatchewan.
 
@@ -17,17 +29,17 @@ In his address, posted in [two](https://twitter.com/premierscottmoe/status/14890
 
 He ends the video with this final paragraph:
 
-> Travel, go to work, have dinner with your friends, go to the movies, go to your kids games - most important. You should do all of these things without constantly assessing if your every activity is absolutely necessary. What's necessary is your freedom. What's necessary is getting your life back to normal. And it's time. I want to thank all of you for the sacrifices
+> Travel, go to work, have dinner with your friends, go to the movies, go to your kid's games - most important. You should do all of these things without constantly assessing if your every activity is absolutely necessary. What's necessary is your freedom. What's necessary is getting your life back to normal. And it's time. I want to thank all of you for the sacrifices
 
-A few questions about how Premier Moe chose to end this very important address to Saskatchewan:
+I have a few thoughts about how The Saskatchewan Party chose to end this address to Saskatchewan:
 
 ### "...go to your kids games - most important."
 
-He is **very** concerned about kids sports - especially minor hockey. Which has continued throughout most of the pandemic with a few stops during especially bad waves of COVID19.
+He is **very** concerned about kids sports - especially minor hockey. I know it's a cliché in Canada, but there is life outside of a hockey rink. Especially when our province is covered with outdoor skating rinks.
 
 ### "You should do all of these things without constantly assessing if your every activity is absolutely necessary."
 
-All around me here in Saskatoon I see the majority of people living their lives like normal. The way he talks is as if cities and small towns are ghost towns with everyone afraid to leave their house. I really doubt the "good people of Saskatchewan" that he's hearing from complaining about the limited restrictions we still have are actually living that much differently than before COVID19, besides having to show a proof of vaccination at a restaurant or liqour store.
+All around me where I live in Saskatoon I see the majority of people living their lives like normal. The way the Saskatchewan Party talks it's as if cities and  towns are ghost towns with everyone afraid to leave their house. I really doubt the "good people of Saskatchewan" that Premier Moe claims to be hearing from are actually living that much differently than before COVID19, besides having to show a proof of vaccination at a restaurant or liqour store.
 
 ### "What's necessary is your freedom."
 
