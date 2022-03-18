@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Why Your Critics Aren't The Ones Who Count
+title: "Brene Brown: Why Your Critics Aren't The Ones Who Count"
 socialImage: /images/brene-brown-quote-2x.jpg
 date: 2022-03-18T19:56:54.448Z
 tags:
