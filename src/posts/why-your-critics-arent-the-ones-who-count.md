@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Brene Brown: Why Your Critics Aren't The Ones Who Count"
+title: "Brené Brown: Why Your Critics Aren't The Ones Who Count"
 socialImage: /images/brene-brown-quote-2x.jpg
 date: 2022-03-18T19:56:54.448Z
 tags:
@@ -8,7 +8,11 @@ tags:
   - criticism
   - ""
 ---
-From her 2013 talk:
+I was chatting with my wife, Sue, about having a tweet I'd posted misunderstood and criticized, and I couldn't articulate why the criticizm felt off. (*To be clear: I apolgized for the tweet and have since deleted it. It wasn't kind of me to write the words I did, even if they were general enough that you would've had to have very inside knowledge of things related to what I wrote.*)
+
+It made Sue think of a quote she remembered from Brené Brown that I went and looked up more context around, and it rings very true to how I view what I do and create online.
+
+The quote is from [Brené Brown's 2013 talk for 99U entitled "Why Your Critics Aren't The Ones Who Count"](https://www.youtube.com/watch?v=8-JXOnFOXQk&t=0s)
 
 It's not about winning. It's not about losing. It's about showing up and being seen.
 
