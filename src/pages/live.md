@@ -1,10 +1,10 @@
 ---
 title: Live
-date: 2021-04-16
+date: 2022-04-25
 permalink: /live/
 ---
 
-Most Tuesday mornings at 10:30am CST I stream live [on my Twitch channel](https://www.twitch.tv/lemonpodcasting/). I generally talk about podcasting questions that have come up, play a video game, or break my website, while having a coffee break.
+I've currently had to put live streaming on pause to focus on getting client work done. I hope to return to it someday!
 
 I also publish tutorial videos about podcasting and live streaming on my [YouTube channel](https://www.youtube.com/c/lemonproductionsca).
 
