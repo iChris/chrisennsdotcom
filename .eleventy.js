@@ -2,6 +2,8 @@ const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require("fs");
 
+
+
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
 const markdownFilter = require('./src/filters/markdown-filter.js');
@@ -20,6 +22,23 @@ module.exports = function(config) {
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
   config.addFilter('w3DateFilter', w3DateFilter);
+
+  // set markdown footnote processor
+  let markdownIt = require("markdown-it");
+  let markdownItFootnote = require("markdown-it-footnote");
+  
+  let options = {
+    html: true, // Enable HTML tags in source
+    breaks: true,  // Convert '\n' in paragraphs into <br>
+    linkify: true // Autoconvert URL-like text to links
+  };
+  
+  // configure the library with options
+  let markdownLib =  markdownIt(options).use(markdownItFootnote);
+  // set the library to process markdown files
+  config.setLibrary("md", markdownLib);
+
+  
 
   // Layout aliases
   config.addLayoutAlias('home', 'layouts/home.njk');
