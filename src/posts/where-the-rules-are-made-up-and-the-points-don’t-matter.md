@@ -6,7 +6,7 @@ tags:
   - analytics
   - data
 ---
-Again with the Uncle Dave linking - this time on [website analytics](https://daverupert.com/2022/04/server-side-vs-client-side-analytics/):
+Again linking to Uncle Dave - this time on [website analytics](https://daverupert.com/2022/04/server-side-vs-client-side-analytics/):
 
 > If I, or some hypothetical manager, put too much stock into these metrics I could see it causing a firestorm of reprioritization based on bot traffic. We’d be chasing the tail of a health check bot somewhere in Germany.
 
