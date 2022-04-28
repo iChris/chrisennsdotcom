@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: On The Internet, the Rules Are Made Up And The Points Don't Matter
+socialImage: /images/data-analytics.jpg
 date: 2022-04-28T14:40:18.826Z
 tags:
   - analytics
