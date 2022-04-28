@@ -16,7 +16,7 @@ I also run a podcast network with friends called [Goodstuff](https://goodstuff.n
 
 ### Personal Podcast Sample
 
-<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest"></iframe>
+<a href="https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest">Listen here.</a>
 
 ## This Blog
 
