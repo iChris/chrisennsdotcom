@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
 title: Matter II Released
+socialImage: /images/matter-queue.webp
 date: 2022-05-16T17:53:58.442Z
 tags:
   - iOS
-  - ""
 ---
 In an [announcent on the Matter blog today](https://hq.getmatter.com/nucleus):
 
@@ -12,7 +12,7 @@ In an [announcent on the Matter blog today](https://hq.getmatter.com/nucleus):
 
 Count me as someone who, somewhat surprisingly to me, enjoyed [Matter's](https://hq.getmatter.com) social "lite" feature - it didn't feel like there was a competition to get more followers, or compare how many likes an article you shared got. But it was interesting to see who liked what kind of article, or when a particular quote from an article I shared would send an article bouncing around the Matter network.
 
-I won't miss it in my day to day use of Matter, but it was a good attempt at adding social features to a read-it-later app.
+I won't miss it in my day to day use of Matter, but it was a decent attempt at adding social features to a read-it-later app.
 
 > On the backend, we’ve built a highly accurate parsing engine that handles web articles, emails, and Twitter threads. 
 
