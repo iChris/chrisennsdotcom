@@ -5,6 +5,9 @@ permalink: /uses/
 metaDesc: What I'm using for work and fun on my computer in 2021.
 socialImage: /images/img_8111.jpg
 ---
+
+Moved 2022-06-24
+
 Inspired by <a href="https://wesbos.com/uses/">Wes Bos' /Uses/ page</a>, I thought I'd create one of my own.
 
 Feel free to ask any questions in the comments at the bottom of the page or <a href="https://twitter.com/ichris">on Twitter</a>. Most stuff doesn't have affiliate links included but some does.

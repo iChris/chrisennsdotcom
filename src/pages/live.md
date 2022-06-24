@@ -4,6 +4,8 @@ date: 2022-04-25
 permalink: /live/
 ---
 
+moved 2022-06-24
+
 I've currently had to put live streaming on pause to focus on getting client work done. I hope to return to it someday!
 
 I also publish tutorial videos about podcasting and live streaming on my [YouTube channel](https://www.youtube.com/c/lemonproductionsca).

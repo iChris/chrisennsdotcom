@@ -4,6 +4,10 @@ date: 2022-04-25
 permalink: /links/
 ---
 
+Moved 2022-06-24
+
+
+
 This is where you can reach me on the web:
 
 * 📖 [RSS feed for this blog](https://chrisenns.com/feed.xml)

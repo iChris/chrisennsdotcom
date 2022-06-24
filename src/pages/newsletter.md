@@ -4,4 +4,6 @@ date: 2022-04-25
 permalink: /newsletter/
 ---
 
+moved 2022-06-24
+
 Due to life + work getting too busy, I my newsletter is on hold. Thanks for your interest! You can still [sign up for my newsletter and you'll get it whenever I restart sending it](https://buttondown.email/ichris).

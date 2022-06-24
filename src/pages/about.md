@@ -4,6 +4,8 @@ date: 2020-01-20
 permalink: /about/
 ---
 
+    MOVED! 2022-06-24
+
 This website is written by Chris Enns (surprise!), a podcast editor & producer living in Saskatoon, Saskatchewan, Canada.
 
 I run [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? [Take a look at my portfolio](https://www.lemonproductions.ca/portfolio).
