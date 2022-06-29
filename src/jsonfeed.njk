@@ -1,0 +1,11 @@
+---
+permalink: '/exportposts.json'
+---
+[
+  {% for post in collections.posts %} 
+  { 
+    "title":"{{ post.data.title }}",
+    "url":"{{ post.url | url }}" ,
+  }
+  {% if loop.last == false %},{% endif %} {% endfor %} {%
+]
