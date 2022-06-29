@@ -1,20 +1,20 @@
-// src/search-data.11ty.js
-class SearchDataJson {
-    data() {
-      return {
-        permalink: "/search-data.json",
-      };
-    }
-  
-    render(data) {
-      const projects = data.collections.projects.map((project) => ({
-        title: project.data.title,
-        url: project.url,
-        content: project.templateContent,
-      }));
-  
-      return JSON.stringify(projects);
-    }
+// src/posts-data.11ty.js
+class PostsDataJson {
+  data() {
+    return {
+      permalink: "/posts-data.json",
+    };
   }
-  
-  module.exports = SearchDataJson;
+
+  render(data) {
+    const posts = data.collections.posts.map((post) => ({
+      title: post.data.title,
+      url: post.url,
+      content: post.templateContent,
+    }));
+
+    return JSON.stringify(posts);
+  }
+}
+
+module.exports = PostsDataJson;
