@@ -8,9 +8,12 @@ class PostsDataJson {
 
   render(data) {
     const posts = data.collections.posts.map((post) => ({
+      status: "published",
+      visibility: "public",
       title: post.data.title,
-      url: post.url,
-      content: post.templateContent,
+      html: post.templateContent,      
+      published_at: post.published_at,
+      slug: post.url
     }));
 
     return JSON.stringify(posts);
