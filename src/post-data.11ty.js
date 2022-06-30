@@ -12,7 +12,7 @@ class PostsDataJson {
       visibility: "public",
       title: post.data.title,
       html: post.templateContent,      
-      published_at: post.published_at,
+      published_at: post.date,
       slug: post.url
     }));
 
