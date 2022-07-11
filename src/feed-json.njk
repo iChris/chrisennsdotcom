@@ -1,20 +1,21 @@
 ---
-permalink: microblogfeed.json
+permalink: feed.json
 eleventyExcludeFromCollections: true
 ---
 
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "ChrisEnns.com",
-    "home_page_url": "https://chrisenns.com",
+    "title": "Chris Enns",
+    "home_page_url": "https://chrisenns.com/",
+    "feed_url": "https://chrisenns.com/microblogfeed.json",
     "items" : [
     {%- for post in collections.posts %}
     {
-        "id" : "{{ post.data.permalink }}",
+        "id" : "{{ post.data.url }}",
         "title": "{{ post.data.title }}",
-        "url": "{{ post.data.permalink }}",
+        "url": "{{ post.data.url }}",
         "content_text": "{{ post.data.templateContent }}",
-        "date_published": "{{ post.data.date }}T00:00:00+00:00"
+        "date_published": "{{ post.data.date | isoDateOnly }}T00:00:00+00:00"
     }{% if not loop.last %},{% else %}{%- endif -%}
     {%- endfor -%}
 ]}
