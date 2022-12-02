@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Breaking My macOS Rule of Not Replacing Default Mac Apps with Raycast and Warp
-date: 2020-10-06T15:56:16.896Z
+date: 2022-10-06T15:56:16.896Z
 tags:
   - macOS
 ---
