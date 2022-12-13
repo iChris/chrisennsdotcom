@@ -10,7 +10,7 @@ This is where you can reach me on the web:
 * ❤️‍🔥 [Twitter](https://www.twitter.com/ichris)
 * ⌨️ [Discord](https://discordapp.com/users/iChris#5728)
 * 📝 [Microblog](https://micro.blog/ichris)
-* 📧 [Life as Lemon Newsletter](https://buttondown.email/ichris)
+* 📧 [Life as Lemon Newsletter](https://www.buymeacoffee.com/lemonpodcasting/posts)
 * 📷 [Instagram](https://www.instagram.com/lemonpodcasting/)
 * 🍋 [My Work](https://www.lemonproductions.ca)
 * 📺 [My YouTube channel](https://www.youtube.com/c/lemonproductionsca)
