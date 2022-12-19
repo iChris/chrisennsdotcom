@@ -18,11 +18,11 @@ Feel free to ask any questions in the comments at the bottom of the page or <a h
 ### Editor + Terminal
 
 * <a href="https://code.visualstudio.com/">Visual Studio Code</a> is what I write show notes in, edit HTML/CSS in, and copy quick notes to when I worry I'll forget about it. 
-* I don't spend a lot of time in Terminal but when I do, I use the built in Terminal included with macOS.
+* I've swapped out Spotlight and Terminal for [Raycast](https://www.raycast.com/) and [Warp](https://www.warp.dev/). [More here if you're curious](https://chrisenns.com/2022/10/breaking-macos-rule/).
 
 ### Desktop &amp; Web Apps
 
-* I've used <a href="https://smilesoftware.com/textexpander">TextExpander</a> for many years to keep shortcuts and address details I can't be bothered to remember in.
+* I've used <a href="https://smilesoftware.com/textexpander">TextExpander</a> for many years to keep shortcuts and address details I can't be bothered to remember in. But I'm weaning myself off TextExpander in favour of the previously mentioned [Raycast](https://www.raycast.com/).
 * For to do's and reminders, I use <a href="https://ticktick.com/">TickTick</a> on macOS / iOS.
 * I write draft blog posts, meeting minutes, and track client work in <a href="http://notion.so">Notion</a>. It's steadily becoming my everything bucket.
 * I journal and track when my kid's are sick using <a href="https://dayone.me">Day One</a> for macOS / iOS. 
