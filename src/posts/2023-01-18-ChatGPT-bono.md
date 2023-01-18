@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: ChatGPT Stories About U2
-date: 2022-12-23T05:56:16.896Z
+date: 2023-01-18T05:56:16.896Z
 tags:
   - U2
   - AI
