@@ -22,7 +22,7 @@ I couldn't finish this draft of a post off in a meaningful way, so Dave Karpf wr
 
 > Thanks to Elon adding the view count to the native Twitter app, we’re now constantly reminded how many people are actually seeing our tweets. For me, at least, what Elon revealed is that Twitter is a megaphone equipped with dying batteries.
 
-He compares his 42,000 Twitter follower views to the 2,300 subscribers to his newsletter "views", and not surprisingly, Twitter comes up short:'
+He compares his 42,000 Twitter follower views to the 2,300 subscribers to his newsletter "views", and not surprisingly, Twitter comes up short:
 
 > If I’m getting 2,000-3,000 views through Twitter, and ~2,300 views through Substack’s email distribution, then my Substack has already reached the same effective size as my Twitter following.
 
