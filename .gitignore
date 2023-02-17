@@ -1,17 +1,21 @@
-*.log
-npm-debug.*
-*.scssc
-*.log
-*.swp
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
-.sass-cache
-node_modules
-dist 
-
-# Specifics
-
-# Hide design tokens
-src/scss/_tokens.scss
-
-# Hide compiled CSS
-src/_includes/assets/*
