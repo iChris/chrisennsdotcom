@@ -22,10 +22,10 @@ I'd still love to put together those courses someday but I know that it's not ha
 
 If you'd like to keep up with what I'm up to, you can listen to my podcast Daily(ish) where every Monday, Wednesday, and Friday I talk about life, work, and most everything in between in 10 minutes or less each episode. **Subscribe to my podcast:**
 
-*   [Web](https://goodstuff.fm/dailyish/)
+*   [Web](https://goodstuff.network/dailyish/)
 *   [Apple Podcasts](https://itunes.apple.com/ca/podcast/pdcst/id815675012)
 *   [Pocket Casts](https://pca.st/Vifv)
 *   [Overcast](https://overcast.fm/itunes815675012/daily-ish)
-*   [RSS](https://feeds.goodstuff.fm/dailyish)
+*   [RSS](https://feeds.goodstuff.network/dailyish)
 
 Thank you for your time today as well as for your support in the courses I wanted to create. I'd also like to thank Podia for their help in answering any questions I had in using their site. Chris Enns [Lemon Productions](https://www.lemonproductions.ca)

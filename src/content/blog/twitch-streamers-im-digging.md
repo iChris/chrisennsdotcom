@@ -27,7 +27,7 @@ Ok... on to the Twitch channels I'm digging lately.
 
 ### Frogpants
 
-📺 [Watch on Twitch](https://www.twitch.tv/frogpants) Scott Johnson and friends record podcasts, create nerdy art, and play the occasional video game all on their Twitch stream. This is a channel I keep subscribed to because I'd love to grow [Goodstuff](https://goodstuff.fm) into something like this someday: a viewer/listener supported home for nerds, geeks, and friends who love to talk about the nerdy, geeky, and friendly stuff in life.
+📺 [Watch on Twitch](https://www.twitch.tv/frogpants) Scott Johnson and friends record podcasts, create nerdy art, and play the occasional video game all on their Twitch stream. This is a channel I keep subscribed to because I'd love to grow [Goodstuff](https://goodstuff.network) into something like this someday: a viewer/listener supported home for nerds, geeks, and friends who love to talk about the nerdy, geeky, and friendly stuff in life.
 
 ![Frogpants](https://chrisenns.com/wp-content/uploads/2018/08/Frogpants.jpg)
 
@@ -49,7 +49,7 @@ A few other channels that are strictly gaming that I check out if I happen to ha
 
 ![kate streaming](https://chrisenns.com/wp-content/uploads/2018/08/kate.jpg)
 
-And of course, you should subscribe to the [Goodstuff.fm Twitch channel](https://www.twitch.tv/goodstuff_fm) for streams of our podcasts we record as well as random games we check out.
+And of course, you should subscribe to the [goodstuff.network Twitch channel](https://www.twitch.tv/goodstuff_fm) for streams of our podcasts we record as well as random games we check out.
 
 ![](https://chrisenns.com/wp-content/uploads/2018/08/goodstuff.jpg)
 

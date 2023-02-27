@@ -102,13 +102,6 @@ declare module 'astro:content' {
   collection: "blog",
   data: any
 },
-"2002-05-28.of-girlfriends-and-things.md": {
-  id: "2002-05-28.of-girlfriends-and-things.md",
-  slug: "2002-05-28of-girlfriends-and-things",
-  body: string,
-  collection: "blog",
-  data: any
-},
 "2002-05-28.the-weathers-here-wish-you-were-beautiful.md": {
   id: "2002-05-28.the-weathers-here-wish-you-were-beautiful.md",
   slug: "2002-05-28the-weathers-here-wish-you-were-beautiful",
