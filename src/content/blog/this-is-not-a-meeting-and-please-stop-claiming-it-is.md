@@ -1,7 +1,7 @@
 ---
 
 title: This Is Not a Meeting And Please Stop Claiming It Is
-date: 2022-02-14T16:56:42.363Z
+pubDate: 2022-02-14T16:56:42.363Z
 tags:
   - meetings
   - virtual

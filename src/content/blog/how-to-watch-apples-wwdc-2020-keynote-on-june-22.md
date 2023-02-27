@@ -1,7 +1,7 @@
 ---
 
 title: Watching Apple's WWDC 2020 Keynote on June 22
-date: 2020-06-19T02:12:57.067Z
+pubDate: 2020-06-19T02:12:57.067Z
 tags:
   - Apple
 ---

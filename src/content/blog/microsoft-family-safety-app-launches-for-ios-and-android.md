@@ -2,7 +2,7 @@
 
 title: Microsoft Family Safety App Launches for iOS and Android
 socialImage: /images/microsoft-screentime.jpg
-date: 2020-07-28T21:17:24.507Z
+pubDate: 2020-07-28T21:17:24.507Z
 tags:
   - microsoft
   - video games

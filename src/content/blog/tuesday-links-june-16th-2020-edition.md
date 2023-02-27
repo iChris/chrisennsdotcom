@@ -3,7 +3,7 @@
 title: Tuesday Links - June 16th, 2020 Edition
 metaTitle: Articles and Links I Found This Week
 socialImage: /images/img_4912.jpeg
-date: 2020-06-16T15:57:15.776Z
+pubDate: 2020-06-16T15:57:15.776Z
 tags:
   - Link Dump
 ---

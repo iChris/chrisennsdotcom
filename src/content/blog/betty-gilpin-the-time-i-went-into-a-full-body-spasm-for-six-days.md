@@ -1,6 +1,6 @@
 ---
 title: "Betty Gilpin: The Time I Went Into a Full-Body Spasm for Six Days"
-date: 2018-08-10
+pubDate: 2018-08-10
 draft: false
 
 ---

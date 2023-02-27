@@ -2,7 +2,7 @@
 
 title: Six Figures in 6 Days on iOS Icons
 socialImage: /images/ios14-custom-icons.jpg
-date: 2020-10-01T14:51:32.651Z
+pubDate: 2020-10-01T14:51:32.651Z
 tags:
   - apple
 ---

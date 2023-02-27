@@ -1,7 +1,7 @@
 ---
 
 title: Discord as the New Comment Space
-date: 2020-07-10T15:56:16.896Z
+pubDate: 2020-07-10T15:56:16.896Z
 tags:
   - Blogging
   - Discord

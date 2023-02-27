@@ -1,6 +1,6 @@
 ---
 title: "JJ Abrams' Production Company Hidden Away"
-date: 2018-11-22
+pubDate: 2018-11-22
 draft: false
 
 ---

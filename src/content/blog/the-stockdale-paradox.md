@@ -5,7 +5,7 @@ metaTitle: Surviving a Pandemic by Learning from Survivors of Other Crazy Things
 metaDesc: "Admiral Jim Stockdale was the highest-ranking military officer in the
   Hanoi Hilton. He was there for, I think, seven years, from 1968 to 1974. He
   was tortured over twenty times. "
-date: 2020-04-15T15:11:23.883Z
+pubDate: 2020-04-15T15:11:23.883Z
 tags:
   - survival
 ---

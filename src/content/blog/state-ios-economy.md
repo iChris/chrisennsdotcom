@@ -1,6 +1,6 @@
 ---
 title: "The State of the iOS Economy"
-date: 2018-01-15
+pubDate: 2018-01-15
 draft: false
 ---
 

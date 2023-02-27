@@ -1,6 +1,6 @@
 ---
 title: "Sharing a Single Family Computer"
-date: 2018-08-13
+pubDate: 2018-08-13
 draft: false
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A Second Life After Cancer"
-date: 2018-05-23
+pubDate: 2018-05-23
 draft: false
 
 ---

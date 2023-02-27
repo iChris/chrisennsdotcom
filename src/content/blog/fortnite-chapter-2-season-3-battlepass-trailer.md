@@ -2,7 +2,7 @@
 
 title: Fortnite Chapter 2 - Season 3 Battlepass Trailer
 socialImage: /images/fortnite-ch2s03-battle-pass.jpg
-date: 2020-06-17T15:36:48.860Z
+pubDate: 2020-06-17T15:36:48.860Z
 tags:
   - Video Games
 ---

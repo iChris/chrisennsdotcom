@@ -1,7 +1,7 @@
 ---
 
 title: All the tech in Ford’s New F-150 Truck
-date: 2020-06-26T18:17:48.492Z
+pubDate: 2020-06-26T18:17:48.492Z
 tags:
   - Vehicles
 ---

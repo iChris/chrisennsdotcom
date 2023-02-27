@@ -1,7 +1,7 @@
 ---
 
 title: Dr. Drang on Using Apple's Notes App
-date: 2020-10-03T21:32:00.874Z
+pubDate: 2020-10-03T21:32:00.874Z
 tags:
   - apple
 ---

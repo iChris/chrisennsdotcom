@@ -3,7 +3,7 @@
 title: "Behind the Magic in Rogue One: A Star Wars Story"
 metaTitle: "ILM: Behind the Magic in Rogue One"
 metaDesc: Behind the scenes visual fx of Rogue One
-date: 2020-05-04T18:09:34.292Z
+pubDate: 2020-05-04T18:09:34.292Z
 tags:
   - movies
   - star wars

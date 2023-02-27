@@ -2,7 +2,7 @@
 
 title: Jamstack vs WordPress
 socialImage: /images/alexandre-debieve-fo7jilwjotu-unsplash.jpg
-date: 2020-09-17T14:49:57.428Z
+pubDate: 2020-09-17T14:49:57.428Z
 tags:
   - jamstack
   - wordpress

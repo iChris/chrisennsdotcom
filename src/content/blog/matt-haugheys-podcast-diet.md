@@ -1,6 +1,6 @@
 ---
 title: "Matt Haughey's Podcast Diet"
-date: 2018-08-10
+pubDate: 2018-08-10
 draft: false
 
 ---

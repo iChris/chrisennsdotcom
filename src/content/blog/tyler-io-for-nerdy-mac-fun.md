@@ -2,7 +2,7 @@
 
 title: Tyler.io For Nerdy Mac Fun
 socialImage: /images/tyler-dot-io.jpg
-date: 2020-08-04T15:53:34.362Z
+pubDate: 2020-08-04T15:53:34.362Z
 tags:
   - Apple
 ---

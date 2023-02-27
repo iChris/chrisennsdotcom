@@ -1,6 +1,6 @@
 ---
 title: "Why Lauren Shippen Took Her Podcast to Luminary"
-date: 2019-03-07
+pubDate: 2019-03-07
 draft: false
 
 ---

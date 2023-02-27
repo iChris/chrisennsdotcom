@@ -1,7 +1,7 @@
 ---
 
 title: Get 50% Off Your First Year of the 1Password
-date: 2020-07-09T15:49:33.093Z
+pubDate: 2020-07-09T15:49:33.093Z
 tags:
   - Apple
 ---

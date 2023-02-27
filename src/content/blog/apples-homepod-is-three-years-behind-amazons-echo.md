@@ -1,6 +1,6 @@
 ---
 title: "HomePod is Three Years Behind Amazon Echo"
-date: 2017-11-28
+pubDate: 2017-11-28
 draft: false
 
 ---

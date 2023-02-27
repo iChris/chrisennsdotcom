@@ -2,7 +2,7 @@
 
 title: PC Gaming Doesn't Have to Be Expensive, But It Is Better Than macOS By a Mile
 socialImage: /images/rtx-3080.jpg
-date: 2020-09-22T20:15:00.730Z
+pubDate: 2020-09-22T20:15:00.730Z
 tags:
   - microsoft
   - apple

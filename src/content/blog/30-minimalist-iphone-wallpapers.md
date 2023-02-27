@@ -2,7 +2,7 @@
 
 title: 30 Minimalist iPhone Wallpapers
 socialImage: /images/02.jpg
-date: 2020-06-12T22:43:23.283Z
+pubDate: 2020-06-12T22:43:23.283Z
 tags:
   - design
 ---

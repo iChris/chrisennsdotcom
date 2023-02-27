@@ -1,6 +1,6 @@
 ---
 title: "Working Backwards from U2s Songs of Experience - A Musical Journey"
-date: 2017-12-03
+pubDate: 2017-12-03
 draft: false
 
 ---

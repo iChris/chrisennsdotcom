@@ -4,7 +4,7 @@ title: Foo Fighters & Kiss Guy
 metaTitle: ""
 metaDesc: Foo Fighters Bring a Guy On Stage. That Guy Turned out to be Kiss Guy
 socialImage: /images/kiss-guy.jpg
-date: 2020-05-19T15:34:09.154Z
+pubDate: 2020-05-19T15:34:09.154Z
 tags:
   - music
 ---

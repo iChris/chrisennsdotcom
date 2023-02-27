@@ -2,7 +2,7 @@
 
 title: How to Back up Your Animal Crossing New Horizons Game File
 socialImage: /images/animal-crossing-game.jpg
-date: 2020-07-30T15:42:07.310Z
+pubDate: 2020-07-30T15:42:07.310Z
 tags:
   - Nintendo
 ---

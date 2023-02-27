@@ -3,7 +3,7 @@
 title: Experimenting with Instagram
 metaTitle: Uninstalling the app, unfollowing the brands.
 socialImage: /images/alex-bracken-x8wqd0uysfa-unsplash.jpg
-date: 2020-09-02T23:34:49.721Z
+pubDate: 2020-09-02T23:34:49.721Z
 tags:
   - social media
   - instagram

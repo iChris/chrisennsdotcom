@@ -2,7 +2,7 @@
 
 title: Clubhouse as a Pandemic Pastime
 socialImage: /images/icons8-team-r-enaopw8rs-unsplash-1-.jpg
-date: 2021-02-04T15:03:54.851Z
+pubDate: 2021-02-04T15:03:54.851Z
 tags:
   - socialmedia
   - clubhouse

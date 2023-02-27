@@ -2,7 +2,7 @@
 
 title: 14 Tips for Apple's iOS 14 Update
 socialImage: /images/14-tipsf-for-ios-14.jpg
-date: 2020-09-17T15:51:17.970Z
+pubDate: 2020-09-17T15:51:17.970Z
 tags:
   - apple
   - ios

@@ -2,7 +2,7 @@
 
 title: Medieval-Style Covers of Pop Songs
 socialImage: /images/bardcore.jpg
-date: 2020-07-20T18:13:20.179Z
+pubDate: 2020-07-20T18:13:20.179Z
 tags:
   - music
 ---

@@ -2,7 +2,7 @@
 
 title: Microsoft's Xbox Plan Could Change Everything
 socialImage: /images/xbox-series-x.png
-date: 2020-07-23T21:38:37.363Z
+pubDate: 2020-07-23T21:38:37.363Z
 tags:
   - video games
 ---

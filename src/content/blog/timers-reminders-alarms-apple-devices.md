@@ -1,6 +1,6 @@
 ---
 title: "Timers, Reminders, and Alarms on Apple Devices"
-date: 2018-02-27
+pubDate: 2018-02-27
 draft: false
 ---
 

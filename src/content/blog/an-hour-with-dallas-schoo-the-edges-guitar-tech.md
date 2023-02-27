@@ -1,6 +1,6 @@
 ---
 title: "An Hour with Dallas Schoo - The Edge''s Guitar Tech"
-date: 2018-07-19
+pubDate: 2018-07-19
 draft: false
 tags:
     - blog

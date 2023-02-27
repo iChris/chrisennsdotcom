@@ -1,7 +1,7 @@
 ---
 
 title: The End of OS X
-date: 2020-06-23T22:52:14.207Z
+pubDate: 2020-06-23T22:52:14.207Z
 tags:
   - Apple
 ---

@@ -2,7 +2,7 @@
 
 title: Happy 20th Anniversary to U2's All That You Can't Leave Behind
 socialImage: /images/u2-singing-kite.jpg
-date: 2020-10-29T16:26:00.527Z
+pubDate: 2020-10-29T16:26:00.527Z
 tags:
   - u2
 ---

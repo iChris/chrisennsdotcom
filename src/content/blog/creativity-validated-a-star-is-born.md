@@ -1,6 +1,6 @@
 ---
 title: "Creativity Validated"
-date: 2019-02-26
+pubDate: 2019-02-26
 draft: false
 
 ---
