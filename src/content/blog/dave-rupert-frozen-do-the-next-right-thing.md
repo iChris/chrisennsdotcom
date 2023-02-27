@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: "Dave Rupert: Frozen? Do the Next Right Thing"
 socialImage: /images/frozen2.jpg
 date: 2020-09-17T21:59:02.253Z

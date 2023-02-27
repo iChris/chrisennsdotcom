@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Hidden Microsoft Edge Features
 date: 2020-06-23T16:45:43.610Z
 tags:

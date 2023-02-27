@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: "Wired UK: How to Stop Instagram from Tracking Everything You Do"
 socialImage: /images/erik-lucatero-urhmj6kfklo-unsplash.jpg
 date: 2020-06-14T21:52:41.413Z

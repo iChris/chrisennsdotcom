@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Facebook Buys Giphy
 socialImage: /images/screen-shot-2020-05-15-at-12.48.16-pm.png
 date: 2020-05-15T18:43:15.618Z

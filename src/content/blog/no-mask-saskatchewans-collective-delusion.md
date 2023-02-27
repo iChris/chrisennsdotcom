@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: No Mask Saskatchewan's Collective Delusion
 socialImage: /images/no-mask-sask-2020-09-1700001.jpg
 date: 2020-09-18T14:41:10.415Z

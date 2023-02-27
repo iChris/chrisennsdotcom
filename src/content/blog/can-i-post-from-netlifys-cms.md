@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Can I Post From Netlify's CMS?
 metaTitle: Testing out Netlify CMS on Eleventy
 socialImage: images/demo-image-2.jpg

@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Making a Skateboard with Apple's Mac Pro Wheels
 socialImage: /images/braille-skateboard-mac-pro-wheels.jpg
 date: 2020-10-03T22:23:53.860Z

@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Apple TV+ Taking the Humanity Out Of Tom Hanks
 date: 2020-07-06T15:31:41.874Z
 tags:

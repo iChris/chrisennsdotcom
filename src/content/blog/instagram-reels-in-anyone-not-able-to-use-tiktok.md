@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Instagram Reels in Anyone Not Able to Use TikTok
 socialImage: /images/instagram-reels.jpg
 date: 2020-08-05T21:28:44.100Z

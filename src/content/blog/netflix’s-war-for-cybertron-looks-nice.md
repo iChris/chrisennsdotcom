@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Netflix’s War for Cybertron Looks Nice
 socialImage: /images/transformers-soundwave-transformers.jpg
 date: 2020-07-30T21:19:05.030Z

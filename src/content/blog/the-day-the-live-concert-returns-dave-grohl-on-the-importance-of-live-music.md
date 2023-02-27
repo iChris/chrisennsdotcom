@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: The Day the Live Concert Returns - Dave Grohl on the Importance of Live Music
 socialImage: /images/dave-grohl.jpg
 date: 2020-05-11T17:08:09.657Z

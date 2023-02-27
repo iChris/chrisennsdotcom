@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: "Behind the Magic in Rogue One: A Star Wars Story"
 metaTitle: "ILM: Behind the Magic in Rogue One"
 metaDesc: Behind the scenes visual fx of Rogue One

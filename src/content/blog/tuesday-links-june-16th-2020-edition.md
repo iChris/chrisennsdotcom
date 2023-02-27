@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Tuesday Links - June 16th, 2020 Edition
 metaTitle: Articles and Links I Found This Week
 socialImage: /images/img_4912.jpeg

@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Churches Are a Major Source of Coronavirus Cases
 date: 2020-07-08T20:29:36.736Z
 tags:

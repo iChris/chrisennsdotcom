@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Where To Learn HTML & CSS in 2020
 date: 2020-06-19T17:17:01.294Z
 tags:

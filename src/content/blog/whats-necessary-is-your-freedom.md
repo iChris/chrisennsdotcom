@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: What's Necessary Is Your Freedom?
 socialImage: /images/blog-freedom-post.jpg
 date: 2022-02-03T14:37:26.191Z

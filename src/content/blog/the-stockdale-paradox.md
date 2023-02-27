@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: The Stockdale Paradox
 metaTitle: Surviving a Pandemic by Learning from Survivors of Other Crazy Things
 metaDesc: "Admiral Jim Stockdale was the highest-ranking military officer in the

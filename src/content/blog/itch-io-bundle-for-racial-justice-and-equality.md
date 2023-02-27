@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: itch.io Bundle for Racial Justice and Equality
 socialImage: /images/itch-bundle.jpg
 date: 2020-06-12T21:39:24.124Z

@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Hamilton arrives on Disney Plus July 3rd
 socialImage: /images/hamilton-trailer.jpg
 date: 2020-06-22T15:55:23.575Z

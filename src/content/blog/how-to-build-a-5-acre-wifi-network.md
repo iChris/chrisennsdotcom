@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: How to Build a 5-acre WiFi Network
 socialImage: /images/mathowie-wifi-farm.jpg
 date: 2020-07-14T15:35:57.730Z

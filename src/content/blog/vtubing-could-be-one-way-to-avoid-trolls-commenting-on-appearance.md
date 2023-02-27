@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Vtubing Could be One Way to Avoid Trolls Commenting On Appearance
 socialImage: /images/vts_basic_setup_detail.jpg
 date: 2020-09-14T20:04:00.078Z

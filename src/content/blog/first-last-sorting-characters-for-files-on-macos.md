@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: First / Last Sorting Characters for Files on macOS
 socialImage: /images/finder-macos-files-sorting.jpg
 date: 2020-07-28T22:34:42.417Z

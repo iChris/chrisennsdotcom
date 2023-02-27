@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Minecraft Dungeons Sounds Fun
 metaDesc: I’m really looking forward to trying out Minecraft Dungeons when it
   comes out next month.

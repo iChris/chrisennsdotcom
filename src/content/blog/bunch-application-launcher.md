@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Bunch Application Launcher
 socialImage: /images/bunch-by-brett-terpstra.jpg
 date: 2020-08-07T18:09:47.997Z

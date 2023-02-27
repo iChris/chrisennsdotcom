@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: The Greatest Trick Played by Internet Giants
 date: 2021-09-28T13:33:44.630Z
 tags:

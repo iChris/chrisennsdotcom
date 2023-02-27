@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Foo Fighters & Kiss Guy
 metaTitle: ""
 metaDesc: Foo Fighters Bring a Guy On Stage. That Guy Turned out to be Kiss Guy

@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: New in iOS 14 Users Can Give Apps Access to Limited Selection of Photos
 date: 2020-06-24T21:02:02.908Z
 tags:

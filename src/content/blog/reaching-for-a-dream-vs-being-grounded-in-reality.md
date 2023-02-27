@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+
 title: Reaching for a Dream vs Being Grounded in Reality
 socialImage: /images/img_1422.jpg
 date: 2021-05-06T14:51:41.391Z
