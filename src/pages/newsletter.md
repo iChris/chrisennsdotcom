@@ -1,9 +1,9 @@
 ---
-title: Life as a Lemon - A Weekly Newsletter
-date: 2022-04-25
+title: Life as a Lemon - An Email Newsletter From Chris Enns
+date: 2023-05-10
 permalink: /newsletter/
 ---
 
-Due to life + work getting too busy, I my newsletter is on hold. Thanks for your interest! 
+If you'd like to keep up with me, <a href="https://buttondown.email/lemonpodcasting?tag=frommyblog">please subscribe to my newsletter</a>. 
 
-I've moved it over to my [BuyMeACoffee page for now. Sign up to follow along](https://www.buymeacoffee.com/lemonpodcasting/posts).
+Or you take a look <a herf="https://buttondown.email/lemonpodcasting/archive/">at the archives of the newsletter to get an idea of what I write about</a> before you subscribe.
