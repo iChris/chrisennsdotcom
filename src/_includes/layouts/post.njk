@@ -28,20 +28,7 @@
         <footer class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
           <div class="inner-wrapper">
             <div class="[ nav ] [ box-flex align-center ]">
-              <h2 class="font-base text-600 weight-mid">Filed under</h2>
-              <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
-                {% for item in tags %}
-                  <li class="nav__item">
-                    <a href="/tags/{{ item }}">{{ item }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-              <h2 class="font-based text-600 weight-mid">Like this post?</h2>
-              <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
-                <li class="nav__item">
-                  <a href="https://twitter.com/intent/tweet?url={{ site.url + page.url }}&text={{ title }}">Tweet about it, eh?</a>
-                </li>
-              </ul>
+              <h3 class="font-base text-600 weight-mid">Keep the converesation going by <a href="https://buttondown.email/lemonpodcasting?tag=frommyblog">by signing up for my newsletter<a></h2>
             </div>
           </div>
         </footer>
