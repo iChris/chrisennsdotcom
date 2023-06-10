@@ -17,6 +17,10 @@ export const NAV_ITEMS: NavItems = {
         path: '/media',
         title: 'media'
     },
+    uses: {
+        path: '/uses',
+        title: 'uses'
+    },    
     about: {
         path: '/about',
         title: 'about'
@@ -26,10 +30,10 @@ export const NAV_ITEMS: NavItems = {
 export const SITE = {
     // Your site's detail?
     name: 'Faraway, So Close',
-    title: 'Astro - Ink',
-    description: 'Faraway, So Close is the blog of Chris Enns - a podcast editor & producer who occasionally writes things down.',
+    title: 'Faraway, So Close',
+    description: 'Faraway, So Close is the blog of Chris Enns - a podcast editor & producer.',
     url: 'https://chrisenns.com',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    githubUrl: 'https://github.com/iChris/chrisennsdotcom',
     listDrafts: true,
     image: 'https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png',
     // YT video channel Id (used in media.astro)
