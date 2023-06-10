@@ -20,6 +20,10 @@ export const NAV_ITEMS: NavItems = {
     uses: {
         path: '/uses',
         title: 'uses'
+    },
+    links: {
+        path: '/links',
+        title: 'links'
     },    
     about: {
         path: '/about',
