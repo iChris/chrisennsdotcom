@@ -30,6 +30,8 @@ The upgraded Mac Studio is now an M2 Max 12-core, 32GB RAM, 1TB SSD, for $2,949C
 
 Not surprisingly, the [initial reviews of the Mac Studio are glowing](https://www.macrumors.com/review/mac-studio-m2-ultra-chip/). "It's the best Mac Studio ever made!" says reviewer given early Mac Studio hardware by Apple to review with no pressure to only say nice things, but obviously if you don't you won't get future hardware early. */cynical mode off*
 
+If you're thinking about this same comparison, [MacRumors has a good Mac mini vs Mac Studio buyer's guide](https://www.macrumors.com/guide/mac-mini-vs-mac-studio/) that may help you.
+
 The [video work I do for clients](https://www.lemonproductions.ca) ebbs and flows between **it's too much** and **why did I buy another external hard drive?**, and so I can't completely justify it when my current machine does technically do the work.
 
 But now that Apple's completed the transition to Apple Silicon with the Mac Pro finally getting on board with the rest of the team, Intel based Macs are clearly not long for this world. The resale value on a fairly loaded 2019 16" MacBook Pro is dropping with each new upgrade cycle. 
