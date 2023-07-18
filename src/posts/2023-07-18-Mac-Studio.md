@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: I Finally Did It - Mac Studio Ordered
 date: 2023-07-18T05:56:16.896Z
+socialImage: /images/macstudio2023.png
 tags:
   - Apple
 ---
