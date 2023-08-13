@@ -34,7 +34,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     <wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
   </wp:term>
   <generator>https://wordpress.org/?v=5.8.1</generator>
-  {% for item in collections.items %}
+  {% for item in collections.posts %}
   <item>
     <title><![CDATA[{{ item.date }}]]></title>
     <link>https://chrisenns.com/{{ item.fileSlug }}/</link>
