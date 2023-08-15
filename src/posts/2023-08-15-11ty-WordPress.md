@@ -17,7 +17,73 @@ I've been using [Eleventy](https://www.11ty.dev/) as the CMS for my blog for a f
 
 ### How I'm Trying to Do It
 
-I'm using [Andy Bell's explainer](https://andy-bell.co.uk/importing-eleventy-content-into-wordpress/) on adding a `wp.njk` file inside my Eleventy install that is supposed to generate a `wp.xml` file out the other side. You can [see my current implementation of it on GitHub](https://github.com/iChris/chrisennsdotcom/blob/master/src/wp.njk).
+I'm using [Andy Bell's explainer](https://andy-bell.co.uk/importing-eleventy-content-into-wordpress/) on adding a `wp.njk` file inside my Eleventy install that is supposed to generate a `wp.xml` file out the other side. You can [see my current implementation of it on GitHub](https://github.com/iChris/chrisennsdotcom/blob/master/src/wp.njk) or here:
+
+```
+---
+permalink: 'wp.xml'
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0"
+xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+  <title>Faraway, So Close</title>
+  <link>https://chrisenns.com</link>
+  <description>Faraway, So Close is the blog of Chris Enns.</description>
+  <pubDate>Sun, 13 Aug 2023 10:27:40 +0000</pubDate>
+  <language>en-GB</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://chrisenns.com</wp:base_site_url>
+  <wp:base_blog_url>https://chrisenns.com</wp:base_blog_url>
+  <wp:category>
+    <wp:term_id>1</wp:term_id>
+    <wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+    <wp:category_parent><![CDATA[]]></wp:category_parent>
+    <wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+  </wp:category>
+  <wp:term>
+    <wp:term_id>1</wp:term_id>
+    <wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+    <wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+    <wp:term_parent><![CDATA[]]></wp:term_parent>
+    <wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+  </wp:term>
+  <generator>https://wordpress.org/?v=5.8.1</generator>
+  {% for item in collections.posts %}
+  <item>
+    <title><![CDATA[{{ item.date }}]]></title>
+    <link>https://chrisenns.com/{{ item.fileSlug }}/</link>
+    <pubDate>{{ item.data.title }}</pubDate>
+    <dc:creator><![CDATA[test]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[{{ item.templateContent | safe }}]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>{{ loop.index + 5 }}</wp:post_id>
+    <wp:post_date><![CDATA[{{ item.data.title | w3DateFilter }}]]></wp:post_date>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[{{ item.fileSlug }}d]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  </item>
+  {% endfor %}
+  </channel>
+</rss>
+```
+
+
 
 The only change I made was where Andy is using `{% for item in collections.items %}`, I thought I should change that to `{% for item in collections.posts %}` since that's where my blog's posts are in `/posts/`. But I could be wrong there?
 
@@ -25,7 +91,53 @@ Side note: I started using Eleventy based off Andy's excellent [starter kit for 
 
 ### The Error(s) I Get
 
-When I build it on Netlify, [this is what the content of the XML file looks like](https://chrisenns.com/wp.xml), and I get a error message that reads as follows in my Netlify console:
+When I build it on Netlify, this is what the content of the `wp.xml` file looks like:
+
+```
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+<channel>
+<title>Faraway, So Close</title>
+<link>https://chrisenns.com</link>
+<description>Faraway, So Close is the blog of Chris Enns.</description>
+<pubDate>Wed, 31 Dec 2023 10:27:40 +0000</pubDate>
+<language>en-GB</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://chrisenns.com</wp:base_site_url>
+<wp:base_blog_url>https://chrisenns.com</wp:base_blog_url>
+<wp:category>
+<wp:term_id>1</wp:term_id>
+<wp:category_nicename>
+<![CDATA[ uncategorized ]]>
+</wp:category_nicename>
+<wp:category_parent>
+<![CDATA[ ]]>
+</wp:category_parent>
+<wp:cat_name>
+<![CDATA[ Uncategorized ]]>
+</wp:cat_name>
+</wp:category>
+<wp:term>
+<wp:term_id>1</wp:term_id>
+<wp:term_taxonomy>
+<![CDATA[ category ]]>
+</wp:term_taxonomy>
+<wp:term_slug>
+<![CDATA[ uncategorized ]]>
+</wp:term_slug>
+<wp:term_parent>
+<![CDATA[ ]]>
+</wp:term_parent>
+<wp:term_name>
+<![CDATA[ Uncategorized ]]>
+</wp:term_name>
+</wp:term>
+<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
+```
+
+and I get this error message in my Netlify console:
 
 ```
 10:39:17 AM: Waiting for other deploys from your team to complete. Check the queue: https://app.netlify.com/teams/ichris/builds
