@@ -34,17 +34,28 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     <wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
   </wp:term>
   <generator>https://wordpress.org/?v=5.8.1</generator>
-  {% for post in collections.posts %}
+  {%- for post in collections.posts -%}
+
+
+  {% set postDate = post.data.date %}
+
+  {# Some Posts don't have dates, use the fileSlug to get the date out of the name </fingers-crossed> #}
+  {% if post.data.date  %}
+  {% else %}
+  {% set postDate = post.fileSlug %}
+  {% endif %}
+  {{ postDate | log }}
+
   <item>
     <title><![CDATA[{{ post.date }}]]></title>
     <link>https://chrisenns.com/{{ post.fileSlug }}/</link>
-    <pubDate>{{ post.data.title }}</pubDate>
+    <pubDate>{{ postDate | w3DateFilter }}</pubDate>
     <dc:creator><![CDATA[test]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[{{ post_name.templateContent | safe }}]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>{{ loop.index + 5 }}</wp:post_id>
-    <wp:post_date><![CDATA[{{ post.data.title | w3DateFilter }}]]></wp:post_date>
+    <wp:post_date><![CDATA[{{ postDate | w3DateFilter }}]]></wp:post_date>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[{{ post.fileSlug }}d]]></wp:post_name>
@@ -56,6 +67,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     <wp:is_sticky>0</wp:is_sticky>
     <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
   </item>
-  {% endfor %}
+
+  {%- endfor -%}
   </channel>
 </rss>
