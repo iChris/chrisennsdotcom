@@ -16,7 +16,7 @@ I've been using [Eleventy](https://www.11ty.dev/) as the CMS for my blog for a f
 
 I'm using [Andy Bell's explainer](https://andy-bell.co.uk/importing-eleventy-content-into-wordpress/) on adding a `wp.njk` file inside my Eleventy install that is supposed to generate a `wp.xml` file out the other side. You can [see my current implementation of it on GitHub](https://github.com/iChris/chrisennsdotcom/blob/master/src/wp.njk) or [here if it's not able to build with it in my repo](https://gist.github.com/iChris/5fbadb85cec73285eb80cada39f900e7).
 
-The only change I made was where Andy is using `{% for item in collections.items %}`, I thought I should change that to `{% for item in collections.posts %}` since that's where my blog's posts are in `/posts/`. But I could be wrong there?
+The only change I made was where Andy is using `for item in collections.items`, I thought I should change that to `for item in collections.posts` since that's where my blog's posts are in `/posts/`. But I could be wrong there?
 
 Side note: I started using Eleventy based off Andy's excellent [starter kit for Eleventy - Hylia](https://hylia.website/). No shade to Andy or his code. I know the error exists between the keyboard and chair on this one.
 
