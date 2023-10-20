@@ -1,6 +1,6 @@
 ---
 title: Links
-date: 2023-04-24
+date: 2023-10-19
 permalink: /links/
 ---
 
@@ -8,17 +8,19 @@ permalink: /links/
 
 ### Social Workflow
 
-Currently I post to my [Microblog](https://micro.blog/ichris) first, which then syndicates it out to Mastodon, Tumblr, Bluesky, and LinkedIn. Pick whatever works for you. Threads is a "if I remember" platform for now. 
+Currently I post to my [Microblog](https://micro.blog/ichris) first, which then syndicates it out to Mastodon, Tumblr, Bluesky, and LinkedIn. Pick whatever works for you. I'm still sorting out Threads, but it has potential.
 
-[Discord](https://discordapp.com/users/iChris#5728) is the best if you want to message me directly, but be sure to let me know who you are if you send a friend request.
+💌 My newsletter is where I'm posting thoughts I would've tweeted if Elon hadn't barfed on Twitter. It's fun. I promise. [Sign up here](https://buttondown.email/lemonpodcasting).
+
+[Discord](https://discordapp.com/users/iChris#5728) is the best if you want to message me directly.
 
 * [Microblog](https://micro.blog/ichris)
 * [Mastodon](https://mastodon.social/@ichris)
-* [Tumblr](https://fscte.tumblr.com/)
 * [BlueSky](https://bsky.app/profile/ichris.bsky.social)
 * [👨🏼‍💼 LinkedIn](https://www.linkedin.com/in/chrisenns/)
-
+* [Tumblr](https://fscte.tumblr.com/)
 * [Threads](https://www.threads.net/@ichrisv2)
+
 * [Discord](https://discordapp.com/users/iChris#5728)
 * [📷 Instagram](https://www.instagram.com/lemonpodcasting/)
 * 🕺 TikTok - I have one but you'll have to work to find it
@@ -28,4 +30,4 @@ Currently I post to my [Microblog](https://micro.blog/ichris) first, which then 
 * [🍋 My Work](https://www.lemonproductions.ca)
 * [📺 My YouTube Channel](https://www.youtube.com/c/lemonproductionsca)
 * [👾 Twitch](https://www.twitch.tv/lemonpodcasting)
-* [💌 Newsletter I've Abandoned For Now](https://buttondown.email/lemonpodcasting)
+* [💌 My Newsletter](https://buttondown.email/lemonpodcasting)
