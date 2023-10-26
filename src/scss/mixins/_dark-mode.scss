@@ -9,6 +9,9 @@
     :root {
       --color-mode: 'dark';
     }
+    .post__footer a {
+      background: #fff;
+  }
 
     :root:not([data-user-color-scheme]) {
       @content;
