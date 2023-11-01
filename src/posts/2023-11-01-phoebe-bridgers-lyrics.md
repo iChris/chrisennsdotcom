@@ -7,7 +7,7 @@ tags:
   - Lyrics
 ---
 
-I love this verse in Phoebe Bridger's song, [Chinese Satellite](https://music.apple.com/ca/album/chinese-satellite/1504699857?i=1504699865), from her 2020 album [Punisher](https://music.apple.com/ca/album/punisher/1504699857):
+I love this verse in Phoebe Bridgers' song, [Chinese Satellite](https://music.apple.com/ca/album/chinese-satellite/1504699857?i=1504699865), from her 2020 album [Punisher](https://music.apple.com/ca/album/punisher/1504699857):
 
 > You were screaming at the Evangelicals  
 > They were screaming right back from what I remember  
