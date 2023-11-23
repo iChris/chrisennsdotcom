@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: App Defaults, 2023 Edition
 date: 2023-11-23T05:56:16.896Z
+socialImage: /images/AppDefaults.jpg
 tags:
   - macOS
   - iOS
@@ -10,13 +11,13 @@ tags:
 I love the way the web still works without any social media influence. Here's the internet rabbit trail that led me to creating this post:
 
 1) I was adding a link to [omg.lol](https://home.omg.lol/), a blog and email hosting service that's cute AND easy AND (relatively) cheap, [to my newsletter](https://buttondown.email/lemonpodcasting).
-2) While browsing their [help and info page](https://home.omg.lol/info), I saw that they offer a [/now/ feature](https://home.omg.lol/info/now) that lets you update the world on what you're working on, reading, watching, etc... now. 
+2) While browsing their [help and info page](https://home.omg.lol/info), I saw that they offer a [/now/ feature](https://home.omg.lol/info/now) that lets you update the world on what you're working on, reading, watching, etc... now. Old school internet at it's best.
 3) I clicked through to the [omg.lol /now garden](https://now.garden/) which has examples of how people are using /now to update the world.
-4) I randomly picked [Rebecca Owen's /now page](https://beccaowen.omg.lol/now)
+4) I randomly picked [Rebecca Owen's /now page](https://beccaowen.omg.lol/now).
 5) Then I clicked back through to [her omg.lol page](https://beccaowen.omg.lol/) to see how she was using it.
 6) I saw she had a blog, so [I checked that out](https://beccais.online/).
 7) The most recent post on Rebecca's blog was one called [Default Apps 2023](https://beccais.online/2023/11/default-apps-2023/). That's clickbait-up-arrow.gif material for me.
-8) She had included a link to episode 97 of a podcast called [Hemispheric Views](https://listen.hemisphericviews.com/097) and this [defaults](https://defaults.rknight.me/) page.
+8) She had included a link to an episode a podcast called [Hemispheric Views](https://listen.hemisphericviews.com/097), and this [defaults](https://defaults.rknight.me/) page.
 
 Which is how I got around to posting a list of my defaults. No Meta / Twitter / TikTok needed. 😆
 
@@ -27,7 +28,7 @@ Which is how I got around to posting a list of my defaults. No Meta / Twitter / 
 * 📝 Notes - A combination of  Notes (shared family stuff), [Drafts](https://getdrafts.com/), and [Notion](https://www.notion.so/?r=dcac6fd924e245dd86621799472ef24e).
 * ✅ To-Do - Technically I'm using  Reminders. (*See Calendar for more*)
 * 📷 iPhone Photo Shooting -  Camera app
-* 🟦 Photo Management -  Photos app
+* 🟦 Photo Management -  Photos app / PixelMator for graphics.
 * 📆 Calendar - I recently switched to using [Fantastical](https://flexibits.com/fantastical), but my calendars and to do items are technically saved in  Reminders / Calendar's databases via iCloud.
 * 📁 Cloud File Storage - I use Dropbox, Google Drive, and iCloud Drive to keep everything confusing.
 * 📖 RSS - My RSS feed is stored in [Feedbin](https://feedbin.com/), and I use Feedbin on my Mac to read RSS feeds. On my iPhone, I'm back using [NetNewsWire](https://netnewswire.com/) but am really tempted to pick up [Reeder](https://reederapp.com/) and an iPad as  dedicated RSS reading hardware.
